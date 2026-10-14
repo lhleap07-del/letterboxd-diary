@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "films": {
+    "https://letterboxd.com/film/dune-part-two/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8",
+      "runtime": 167,
+      "averageRating": 4.37,
+      "fetchedAt": "2026-10-14T04:46:54.617Z"
+    },
+    "https://letterboxd.com/film/oppenheimer-2023/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/7/8/4/3/2/8/784328-oppenheimer-0-600-0-900-crop.jpg?v=e3c6e7a32c",
+      "runtime": 181,
+      "averageRating": 4.16,
+      "fetchedAt": "2026-10-14T04:46:54.758Z"
+    },
+    "https://letterboxd.com/film/the-shining/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/7s/m2/bw/d0/caoYMcjUamGoBVy65i1AHJBvdzw-0-600-0-900-crop.jpg?v=88d9d6cce4",
+      "runtime": 144,
+      "averageRating": 4.21,
+      "fetchedAt": "2026-10-14T04:46:54.930Z"
+    },
+    "https://letterboxd.com/film/the-godfather-part-ii/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/6/51816-the-godfather-part-ii-0-600-0-900-crop.jpg?v=6a49853f25",
+      "runtime": 202,
+      "averageRating": 4.59,
+      "fetchedAt": "2026-10-14T04:46:55.101Z"
+    },
+    "https://letterboxd.com/film/the-godfather/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/8/1/8/51818-the-godfather-0-600-0-900-crop.jpg?v=bca8b67402",
+      "runtime": 175,
+      "averageRating": 4.51,
+      "fetchedAt": "2026-10-14T04:46:55.262Z"
+    },
+    "https://letterboxd.com/film/marty-supreme/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/1/1/9/7/4/9/9/1197499-marty-supreme-0-600-0-900-crop.jpg?v=b14a26bb43",
+      "runtime": 150,
+      "averageRating": 4.01,
+      "fetchedAt": "2026-10-14T04:46:55.545Z"
+    },
+    "https://letterboxd.com/film/rogue-one-a-star-wars-story/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/2/5/8/1/2/8/258128-rogue-one-a-star-wars-story-0-600-0-900-crop.jpg?v=eff30d0282",
+      "runtime": 133,
+      "averageRating": 3.84,
+      "fetchedAt": "2026-10-14T04:46:55.842Z"
+    },
+    "https://letterboxd.com/film/star-wars-episode-iii-revenge-of-the-sith/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/0/7/0/9/50709-star-wars-episode-iii-revenge-of-the-sith-0-600-0-900-crop.jpg?v=cdb8caab10",
+      "runtime": 140,
+      "averageRating": 4.13,
+      "fetchedAt": "2026-10-14T04:46:55.999Z"
+    },
+    "https://letterboxd.com/film/2001-a-space-odyssey/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/9/8/7/51987-2001-a-space-odyssey-0-600-0-900-crop.jpg?v=a69c46a272",
+      "runtime": 149,
+      "averageRating": 4.23,
+      "fetchedAt": "2026-10-14T04:46:56.151Z"
+    }
+  }
+}
