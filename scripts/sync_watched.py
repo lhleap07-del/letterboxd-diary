@@ -86,11 +86,11 @@ def extract_posters(html):
             if img:
                 raw_name = img.get("alt", "")
         raw_name = str(raw_name)
-        m = re.match(r"^(.*?)\\s*\\((\\d{4})\\)\\s*$", raw_name)
+        m = re.match(r"^(.*?)\s*\((\d{4})\)\s*$", raw_name)
         if m:
             title, year = m.group(1).strip(), m.group(2)
         else:
-            title = re.sub(r"\\s*\\(\\d{4}\\)$", "", raw_name).strip()
+            title = re.sub(r"\s*\(\d{4}\)$", "", raw_name).strip()
             year = ""
         rating = attrs.get("data-owner-rating") or ""
         if isinstance(rating, list):
