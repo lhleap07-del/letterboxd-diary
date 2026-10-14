@@ -1,0 +1,35 @@
+name: Sync Letterboxd Diary
+
+on:
+  # Daily, at 08:17 UTC. GitHub may delay scheduled jobs.
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+  # Run when this workflow is first added or edited.
+  push:
+    paths:
+      - ".github/workflows/letterboxd.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: letterboxd-diary-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  sync-diary:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Fetch full public Letterboxd diary and publish CSV
+        uses: nichtlegacy/letterboxd-graph@v2
+        with:
+          username: kennypickettfan
+          scope: "all"
+          years: "last 2"
+          review-years: "last 2"
+          month-cards: "0"
+          commit: "true"
