@@ -32,4 +32,19 @@ jobs:
           years: "last 2"
           review-years: "last 2"
           month-cards: "0"
-          commit: "true"
+          commit: "false"
+
+      - name: Export all watched films, including those without diary entries
+        run: |
+          python3 -m pip install beautifulsoup4
+          python3 scripts/sync_watched.py
+
+      - name: Commit refreshed diary and full watched list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add images/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Letterboxd diary and watched films"
+            git push origin HEAD:main
+          fi
