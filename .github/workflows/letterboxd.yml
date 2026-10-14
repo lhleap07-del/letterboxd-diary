@@ -25,7 +25,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch full public Letterboxd diary and publish CSV
-        uses: nichtlegacy/letterboxd-graph@v2
+        uses: nichtlegacy/letterboxd-graph@8699a1602134f2e4b1dd127b766ab733b39d7786
         with:
           username: kennypickettfan
           scope: "all"
