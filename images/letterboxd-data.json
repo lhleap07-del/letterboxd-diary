@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-15T08:52:00.746Z",
+  "generatedAt": "2026-10-16T08:50:35.476Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 106,
-    "daysActive": 91,
+    "films": 107,
+    "daysActive": 92,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 27,
@@ -8802,10 +8802,24 @@
       "date": "2026-10-15",
       "week": 93,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Minions",
+          "year": "2015",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:150541",
+          "lid": "6jCO",
+          "slug": "minions"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/15/"
     },
@@ -11763,13 +11777,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/13/"
+    },
+    {
+      "date": "2026-10-15",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Minions",
+          "year": "2015",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:150541",
+          "lid": "6jCO",
+          "slug": "minions"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/15/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-15",
+      "title": "Minions",
+      "year": "2015",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:150541",
+      "lid": "6jCO",
+      "slug": "minions"
+    },
     {
       "date": "2026-10-13",
       "title": "Fargo",
@@ -11979,23 +12028,23 @@
       "filmUid": "film:51717",
       "lid": "2axs",
       "slug": "eyes-wide-shut"
-    },
-    {
-      "date": "2026-09-02",
-      "title": "The Killing",
-      "year": "1956",
-      "rating": 4,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-killing/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51809",
-      "lid": "2aMi",
-      "slug": "the-killing"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-15",
+      "title": "Minions",
+      "year": "2015",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:150541",
+      "lid": "6jCO",
+      "slug": "minions"
+    },
     {
       "date": "2026-10-13",
       "title": "Fargo",
@@ -17538,28 +17587,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 69,
-      "distinctFilms": 62,
+      "entries": 70,
+      "distinctFilms": 63,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-13",
-      "spanDays": 285,
-      "daysActive": 59,
+      "lastEntry": "2026-10-15",
+      "spanDays": 287,
+      "daysActive": 60,
       "multiFilmDays": 8,
       "rewatches": 22,
       "liked": 44,
-      "rated": 69,
+      "rated": 70,
       "releaseBreakdown": {
         "sameYear": 8,
-        "older": 61,
+        "older": 62,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 47,
+        "firstWatches": 48,
         "rewatches": 22
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 69
+        "notReviewed": 70
       },
       "averageRating": 4,
       "perDay": 0.24,
@@ -17583,8 +17632,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 69,
-          "days": 59
+          "films": 70,
+          "days": 60
         }
       ],
       "perWeekday": [
@@ -17592,7 +17641,7 @@
         7,
         6,
         6,
-        7,
+        8,
         14,
         16
       ],
@@ -17606,7 +17655,7 @@
         4,
         8,
         7,
-        10,
+        11,
         0,
         0
       ],
@@ -17649,7 +17698,7 @@
         },
         {
           "month": "2026-10",
-          "count": 10
+          "count": 11
         }
       ],
       "weekSeries": [
@@ -17903,7 +17952,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 2
+          "count": 3
         },
         {
           "week": 43,
@@ -17987,7 +18036,7 @@
         },
         {
           "rating": 3,
-          "count": 5
+          "count": 6
         },
         {
           "rating": 3.5,
@@ -18052,7 +18101,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 17,
+          "count": 18,
           "averageRating": 4
         },
         {
@@ -18169,52 +18218,52 @@
           "slug": "spider-man-homecoming"
         },
         {
-          "n": 69,
+          "n": 70,
           "kind": "latest",
-          "date": "2026-10-13",
-          "title": "Fargo",
-          "year": "1996",
-          "rating": 4,
-          "url": "https://letterboxd.com/kennypickettfan/film/fargo/",
+          "date": "2026-10-15",
+          "title": "Minions",
+          "year": "2015",
+          "rating": 3,
+          "url": "https://letterboxd.com/kennypickettfan/film/minions/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:51781",
-          "lid": "2aHM",
-          "slug": "fargo"
+          "filmUid": "film:150541",
+          "lid": "6jCO",
+          "slug": "minions"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 294,
-    "entries": 269,
-    "distinctFilms": 234,
+    "films": 295,
+    "entries": 270,
+    "distinctFilms": 235,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-13",
-    "spanDays": 1163,
-    "daysActive": 151,
+    "lastEntry": "2026-10-15",
+    "spanDays": 1165,
+    "daysActive": 152,
     "multiFilmDays": 22,
     "rewatches": 41,
     "liked": 151,
-    "rated": 268,
+    "rated": 269,
     "releaseBreakdown": {
       "sameYear": 30,
-      "older": 239,
+      "older": 240,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 228,
+      "firstWatches": 229,
       "rewatches": 41
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 269
+      "notReviewed": 270
     },
     "averageRating": 3.8,
     "perDay": 0.23,
     "perWeek": 1.6,
-    "perMonth": 7,
+    "perMonth": 7.1,
     "streak": {
       "length": 7,
       "startDate": "2026-10-07",
@@ -18248,8 +18297,8 @@
       },
       {
         "year": 2026,
-        "films": 69,
-        "days": 59
+        "films": 70,
+        "days": 60
       }
     ],
     "perWeekday": [
@@ -18257,7 +18306,7 @@
       20,
       110,
       24,
-      20,
+      21,
       28,
       32
     ],
@@ -18271,7 +18320,7 @@
       14,
       103,
       8,
-      12,
+      13,
       19,
       29
     ],
@@ -18430,7 +18479,7 @@
       },
       {
         "month": "2026-10",
-        "count": 10
+        "count": 11
       }
     ],
     "weekSeries": [],
@@ -18453,7 +18502,7 @@
       },
       {
         "rating": 3,
-        "count": 26
+        "count": 27
       },
       {
         "rating": 3.5,
@@ -18524,7 +18573,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 76,
+        "count": 77,
         "averageRating": 3.5
       },
       {
@@ -18853,18 +18902,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 269,
+        "n": 270,
         "kind": "latest",
-        "date": "2026-10-13",
-        "title": "Fargo",
-        "year": "1996",
-        "rating": 4,
-        "url": "https://letterboxd.com/kennypickettfan/film/fargo/",
+        "date": "2026-10-15",
+        "title": "Minions",
+        "year": "2015",
+        "rating": 3,
+        "url": "https://letterboxd.com/kennypickettfan/film/minions/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:51781",
-        "lid": "2aHM",
-        "slug": "fargo"
+        "filmUid": "film:150541",
+        "lid": "6jCO",
+        "slug": "minions"
       }
     ]
   }
