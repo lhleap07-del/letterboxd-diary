@@ -123,8 +123,8 @@
         <text x="75" y="61" font-size="8" fill="#f0f6fc" text-anchor="middle">3</text>
         <rect x="67" y="64" width="16" height="6" rx="2" fill="#26a641"/>
         <text x="75" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">1960s</text>
-        <text x="101" y="59" font-size="8" fill="#f0f6fc" text-anchor="middle">4</text>
-        <rect x="93" y="62" width="16" height="8" rx="2" fill="#26a641"/>
+        <text x="101" y="57" font-size="8" fill="#f0f6fc" text-anchor="middle">5</text>
+        <rect x="93" y="60" width="16" height="10" rx="2" fill="#26a641"/>
         <text x="101" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">1970s</text>
         <text x="127" y="57" font-size="8" fill="#f0f6fc" text-anchor="middle">5</text>
         <rect x="119" y="60" width="16" height="10" rx="2" fill="#26a641"/>
@@ -146,7 +146,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">70 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">71 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution</text>
@@ -165,29 +165,29 @@
         <text x="118" y="63" font-size="8" fill="#f0f6fc" text-anchor="middle">2</text>
         <rect x="111" y="66" width="14" height="4" rx="2" fill="#26a641"/>
         <text x="118" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2.5</text>
-        <text x="142" y="54" font-size="8" fill="#f0f6fc" text-anchor="middle">6</text>
-        <rect x="135" y="57" width="14" height="13" rx="2" fill="#26a641"/>
+        <text x="142" y="55" font-size="8" fill="#f0f6fc" text-anchor="middle">6</text>
+        <rect x="135" y="58" width="14" height="12" rx="2" fill="#26a641"/>
         <text x="142" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3</text>
-        <text x="166" y="46" font-size="8" fill="#f0f6fc" text-anchor="middle">10</text>
-        <rect x="159" y="49" width="14" height="21" rx="2" fill="#39d353"/>
+        <text x="166" y="47" font-size="8" fill="#f0f6fc" text-anchor="middle">10</text>
+        <rect x="159" y="50" width="14" height="20" rx="2" fill="#39d353"/>
         <text x="166" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
-        <text x="190" y="33" font-size="8" fill="#f0f6fc" text-anchor="middle">16</text>
-        <rect x="183" y="36" width="14" height="34" rx="2" fill="#39d353"/>
+        <text x="190" y="35" font-size="8" fill="#f0f6fc" text-anchor="middle">16</text>
+        <rect x="183" y="38" width="14" height="32" rx="2" fill="#39d353"/>
         <text x="190" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">4</text>
-        <text x="214" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">19</text>
+        <text x="214" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">20</text>
         <rect x="207" y="30" width="14" height="40" rx="2" fill="#39d353"/>
         <text x="214" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">4.5</text>
-        <text x="238" y="40" font-size="8" fill="#f0f6fc" text-anchor="middle">13</text>
-        <rect x="231" y="43" width="14" height="27" rx="2" fill="#39d353"/>
+        <text x="238" y="41" font-size="8" fill="#f0f6fc" text-anchor="middle">13</text>
+        <rect x="231" y="44" width="14" height="26" rx="2" fill="#39d353"/>
         <text x="238" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#30363d" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 4.0★ · 70 rated · ↻ 22 · ♥ 44</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 4.0★ · 71 rated · ↻ 22 · ♥ 45</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">60 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">61 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -207,8 +207,8 @@
         <text x="123" y="54" font-size="9" fill="#f0f6fc" text-anchor="middle">8</text>
         <rect x="116" y="57" width="14" height="23" rx="2" fill="#26a641"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="38" font-size="9" fill="#f0f6fc" text-anchor="middle">14</text>
-        <rect x="140" y="41" width="14" height="39" rx="2" fill="#26a641"/>
+        <text x="147" y="35" font-size="9" fill="#f0f6fc" text-anchor="middle">15</text>
+        <rect x="140" y="38" width="14" height="42" rx="2" fill="#26a641"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
         <text x="171" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">16</text>
         <rect x="164" y="35" width="14" height="45" rx="2" fill="#26a641"/>
@@ -1375,7 +1375,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="697" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:476ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/16/">
+        <rect class="cell"
+          x="697"
+          y="85"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#006d32" style="animation-delay:476ms"
+        />
+        <g class="tooltip-group" transform="translate(687, 21)">
+          <rect x="0" y="0" width="252" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
+            <tspan x="10" dy="22" font-weight="600">Fri, 16. Oct 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• A Clockwork Orange (1971) - 4.5★ ♥</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="714" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:487ms"/>
     <rect class="cell" x="731" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:498ms"/>
     <rect class="cell" x="748" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:509ms"/>

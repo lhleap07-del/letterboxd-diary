@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-16T08:50:35.476Z",
+  "generatedAt": "2026-10-17T08:45:33.252Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 107,
-    "daysActive": 92,
+    "films": 108,
+    "daysActive": 93,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 27,
-    "liked": 64
+    "liked": 65
   },
   "monthLabels": [
     {
@@ -8827,10 +8827,24 @@
       "date": "2026-10-16",
       "week": 93,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "A Clockwork Orange",
+          "year": "1971",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51867",
+          "lid": "2aVE",
+          "slug": "a-clockwork-orange"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/16/"
     },
@@ -11798,13 +11812,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/15/"
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "A Clockwork Orange",
+          "year": "1971",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51867",
+          "lid": "2aVE",
+          "slug": "a-clockwork-orange"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/16/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-16",
+      "title": "A Clockwork Orange",
+      "year": "1971",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51867",
+      "lid": "2aVE",
+      "slug": "a-clockwork-orange"
+    },
     {
       "date": "2026-10-15",
       "title": "Minions",
@@ -12014,23 +12063,23 @@
       "filmUid": "film:51432",
       "lid": "29Nu",
       "slug": "the-shining"
-    },
-    {
-      "date": "2026-09-05",
-      "title": "Eyes Wide Shut",
-      "year": "1999",
-      "rating": 4.5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/eyes-wide-shut/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51717",
-      "lid": "2axs",
-      "slug": "eyes-wide-shut"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-16",
+      "title": "A Clockwork Orange",
+      "year": "1971",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51867",
+      "lid": "2aVE",
+      "slug": "a-clockwork-orange"
+    },
     {
       "date": "2026-10-15",
       "title": "Minions",
@@ -17587,33 +17636,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 70,
-      "distinctFilms": 63,
+      "entries": 71,
+      "distinctFilms": 64,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-15",
-      "spanDays": 287,
-      "daysActive": 60,
+      "lastEntry": "2026-10-16",
+      "spanDays": 288,
+      "daysActive": 61,
       "multiFilmDays": 8,
       "rewatches": 22,
-      "liked": 44,
-      "rated": 70,
+      "liked": 45,
+      "rated": 71,
       "releaseBreakdown": {
         "sameYear": 8,
-        "older": 62,
+        "older": 63,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 48,
+        "firstWatches": 49,
         "rewatches": 22
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 70
+        "notReviewed": 71
       },
       "averageRating": 4,
-      "perDay": 0.24,
+      "perDay": 0.25,
       "perWeek": 1.7,
-      "perMonth": 7.4,
+      "perMonth": 7.5,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -17632,8 +17681,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 70,
-          "days": 60
+          "films": 71,
+          "days": 61
         }
       ],
       "perWeekday": [
@@ -17642,7 +17691,7 @@
         6,
         6,
         8,
-        14,
+        15,
         16
       ],
       "perMonthOfYear": [
@@ -17655,7 +17704,7 @@
         4,
         8,
         7,
-        11,
+        12,
         0,
         0
       ],
@@ -17698,7 +17747,7 @@
         },
         {
           "month": "2026-10",
-          "count": 11
+          "count": 12
         }
       ],
       "weekSeries": [
@@ -17952,7 +18001,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 3
+          "count": 4
         },
         {
           "week": 43,
@@ -18048,7 +18097,7 @@
         },
         {
           "rating": 4.5,
-          "count": 19
+          "count": 20
         },
         {
           "rating": 5,
@@ -18077,7 +18126,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 4,
+          "count": 5,
           "averageRating": 4.5
         },
         {
@@ -18218,18 +18267,18 @@
           "slug": "spider-man-homecoming"
         },
         {
-          "n": 70,
+          "n": 71,
           "kind": "latest",
-          "date": "2026-10-15",
-          "title": "Minions",
-          "year": "2015",
-          "rating": 3,
-          "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+          "date": "2026-10-16",
+          "title": "A Clockwork Orange",
+          "year": "1971",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:150541",
-          "lid": "6jCO",
-          "slug": "minions"
+          "filmUid": "film:51867",
+          "lid": "2aVE",
+          "slug": "a-clockwork-orange"
         }
       ]
     }
@@ -18237,28 +18286,28 @@
   "allTime": {
     "scope": "all",
     "films": 295,
-    "entries": 270,
-    "distinctFilms": 235,
+    "entries": 271,
+    "distinctFilms": 236,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-15",
-    "spanDays": 1165,
-    "daysActive": 152,
+    "lastEntry": "2026-10-16",
+    "spanDays": 1166,
+    "daysActive": 153,
     "multiFilmDays": 22,
     "rewatches": 41,
-    "liked": 151,
-    "rated": 269,
+    "liked": 152,
+    "rated": 270,
     "releaseBreakdown": {
       "sameYear": 30,
-      "older": 240,
+      "older": 241,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 229,
+      "firstWatches": 230,
       "rewatches": 41
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 270
+      "notReviewed": 271
     },
     "averageRating": 3.8,
     "perDay": 0.23,
@@ -18297,8 +18346,8 @@
       },
       {
         "year": 2026,
-        "films": 70,
-        "days": 60
+        "films": 71,
+        "days": 61
       }
     ],
     "perWeekday": [
@@ -18307,7 +18356,7 @@
       110,
       24,
       21,
-      28,
+      29,
       32
     ],
     "perMonthOfYear": [
@@ -18320,7 +18369,7 @@
       14,
       103,
       8,
-      13,
+      14,
       19,
       29
     ],
@@ -18479,7 +18528,7 @@
       },
       {
         "month": "2026-10",
-        "count": 11
+        "count": 12
       }
     ],
     "weekSeries": [],
@@ -18514,7 +18563,7 @@
       },
       {
         "rating": 4.5,
-        "count": 58
+        "count": 59
       },
       {
         "rating": 5,
@@ -18549,8 +18598,8 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 15,
-        "averageRating": 4
+        "count": 16,
+        "averageRating": 4.5
       },
       {
         "decade": 1980,
@@ -18902,18 +18951,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 270,
+        "n": 271,
         "kind": "latest",
-        "date": "2026-10-15",
-        "title": "Minions",
-        "year": "2015",
-        "rating": 3,
-        "url": "https://letterboxd.com/kennypickettfan/film/minions/",
+        "date": "2026-10-16",
+        "title": "A Clockwork Orange",
+        "year": "1971",
+        "rating": 4.5,
+        "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:150541",
-        "lid": "6jCO",
-        "slug": "minions"
+        "filmUid": "film:51867",
+        "lid": "2aVE",
+        "slug": "a-clockwork-orange"
       }
     ]
   }
