@@ -135,8 +135,8 @@
         <text x="179" y="57" font-size="8" fill="#1f2328" text-anchor="middle">5</text>
         <rect x="171" y="60" width="16" height="10" rx="2" fill="#30a14e"/>
         <text x="179" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2000s</text>
-        <text x="205" y="33" font-size="8" fill="#1f2328" text-anchor="middle">18</text>
-        <rect x="197" y="36" width="16" height="34" rx="2" fill="#30a14e"/>
+        <text x="205" y="31" font-size="8" fill="#1f2328" text-anchor="middle">19</text>
+        <rect x="197" y="34" width="16" height="36" rx="2" fill="#30a14e"/>
         <text x="205" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2010s</text>
         <text x="231" y="27" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
         <rect x="223" y="30" width="16" height="40" rx="2" fill="#30a14e"/>
@@ -146,7 +146,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">71 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">72 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution</text>
@@ -171,8 +171,8 @@
         <text x="166" y="47" font-size="8" fill="#1f2328" text-anchor="middle">10</text>
         <rect x="159" y="50" width="14" height="20" rx="2" fill="#216e39"/>
         <text x="166" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
-        <text x="190" y="35" font-size="8" fill="#1f2328" text-anchor="middle">16</text>
-        <rect x="183" y="38" width="14" height="32" rx="2" fill="#216e39"/>
+        <text x="190" y="33" font-size="8" fill="#1f2328" text-anchor="middle">17</text>
+        <rect x="183" y="36" width="14" height="34" rx="2" fill="#216e39"/>
         <text x="190" y="84" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
         <text x="214" y="27" font-size="8" fill="#1f2328" text-anchor="middle">20</text>
         <rect x="207" y="30" width="14" height="40" rx="2" fill="#216e39"/>
@@ -181,19 +181,19 @@
         <rect x="231" y="44" width="14" height="26" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 4.0★ · 71 rated · ↻ 22 · ♥ 45</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 4.0★ · 72 rated · ↻ 23 · ♥ 46</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">61 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">62 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="40" font-size="9" fill="#1f2328" text-anchor="middle">13</text>
-        <rect x="20" y="43" width="14" height="37" rx="2" fill="#30a14e"/>
+        <text x="27" y="38" font-size="9" fill="#1f2328" text-anchor="middle">14</text>
+        <rect x="20" y="41" width="14" height="39" rx="2" fill="#30a14e"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
         <text x="51" y="57" font-size="9" fill="#1f2328" text-anchor="middle">7</text>
         <rect x="44" y="60" width="14" height="20" rx="2" fill="#30a14e"/>
@@ -478,7 +478,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="714" y="0" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:462ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/18/">
+        <rect class="cell"
+          x="714"
+          y="0"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#40c463" style="animation-delay:462ms"
+        />
+        <g class="tooltip-group" transform="translate(463, -64)">
+          <rect x="0" y="0" width="476" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
+            <tspan x="10" dy="22" font-weight="600">Sun, 18. Oct 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• ↻ Percy Jackson &amp; the Olympians: The Lightning Thief (2010) - 4★ ♥</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="731" y="0" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:473ms"/>
     <rect class="cell" x="748" y="0" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:484ms"/>
     <rect class="cell" x="765" y="0" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:495ms"/>

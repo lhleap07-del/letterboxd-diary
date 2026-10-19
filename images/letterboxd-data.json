@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-18T08:45:40.334Z",
+  "generatedAt": "2026-10-19T08:54:47.820Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 108,
-    "daysActive": 93,
+    "films": 109,
+    "daysActive": 94,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 27,
-    "liked": 65
+    "rewatches": 28,
+    "liked": 66
   },
   "monthLabels": [
     {
@@ -8863,10 +8863,24 @@
       "date": "2026-10-18",
       "week": 94,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Percy Jackson & the Olympians: The Lightning Thief",
+          "year": "2010",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:30264",
+          "lid": "1gJi",
+          "slug": "percy-jackson-the-olympians-the-lightning-thief"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/18/"
     },
@@ -11833,13 +11847,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/16/"
+    },
+    {
+      "date": "2026-10-18",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Percy Jackson & the Olympians: The Lightning Thief",
+          "year": "2010",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:30264",
+          "lid": "1gJi",
+          "slug": "percy-jackson-the-olympians-the-lightning-thief"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/18/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-18",
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "year": "2010",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:30264",
+      "lid": "1gJi",
+      "slug": "percy-jackson-the-olympians-the-lightning-thief"
+    },
     {
       "date": "2026-10-16",
       "title": "A Clockwork Orange",
@@ -12049,23 +12098,23 @@
       "filmUid": "film:51042",
       "lid": "28MA",
       "slug": "the-departed"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "The Shining",
-      "year": "1980",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-shining/2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51432",
-      "lid": "29Nu",
-      "slug": "the-shining"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-18",
+      "title": "Percy Jackson & the Olympians: The Lightning Thief",
+      "year": "2010",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:30264",
+      "lid": "1gJi",
+      "slug": "percy-jackson-the-olympians-the-lightning-thief"
+    },
     {
       "date": "2026-10-16",
       "title": "A Clockwork Orange",
@@ -17636,33 +17685,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 71,
-      "distinctFilms": 64,
+      "entries": 72,
+      "distinctFilms": 65,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-16",
-      "spanDays": 288,
-      "daysActive": 61,
+      "lastEntry": "2026-10-18",
+      "spanDays": 290,
+      "daysActive": 62,
       "multiFilmDays": 8,
-      "rewatches": 22,
-      "liked": 45,
-      "rated": 71,
+      "rewatches": 23,
+      "liked": 46,
+      "rated": 72,
       "releaseBreakdown": {
         "sameYear": 8,
-        "older": 63,
+        "older": 64,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 49,
-        "rewatches": 22
+        "rewatches": 23
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 71
+        "notReviewed": 72
       },
       "averageRating": 4,
       "perDay": 0.25,
       "perWeek": 1.7,
-      "perMonth": 7.5,
+      "perMonth": 7.6,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -17681,12 +17730,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 71,
-          "days": 61
+          "films": 72,
+          "days": 62
         }
       ],
       "perWeekday": [
-        13,
+        14,
         7,
         6,
         6,
@@ -17704,7 +17753,7 @@
         4,
         8,
         7,
-        12,
+        13,
         0,
         0
       ],
@@ -17747,7 +17796,7 @@
         },
         {
           "month": "2026-10",
-          "count": 12
+          "count": 13
         }
       ],
       "weekSeries": [
@@ -18001,7 +18050,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 4
+          "count": 5
         },
         {
           "week": 43,
@@ -18093,7 +18142,7 @@
         },
         {
           "rating": 4,
-          "count": 16
+          "count": 17
         },
         {
           "rating": 4.5,
@@ -18150,7 +18199,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 18,
+          "count": 19,
           "averageRating": 4
         },
         {
@@ -18267,18 +18316,18 @@
           "slug": "spider-man-homecoming"
         },
         {
-          "n": 71,
+          "n": 72,
           "kind": "latest",
-          "date": "2026-10-16",
-          "title": "A Clockwork Orange",
-          "year": "1971",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+          "date": "2026-10-18",
+          "title": "Percy Jackson & the Olympians: The Lightning Thief",
+          "year": "2010",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:51867",
-          "lid": "2aVE",
-          "slug": "a-clockwork-orange"
+          "filmUid": "film:30264",
+          "lid": "1gJi",
+          "slug": "percy-jackson-the-olympians-the-lightning-thief"
         }
       ]
     }
@@ -18286,28 +18335,28 @@
   "allTime": {
     "scope": "all",
     "films": 295,
-    "entries": 271,
+    "entries": 272,
     "distinctFilms": 236,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-16",
-    "spanDays": 1166,
-    "daysActive": 153,
+    "lastEntry": "2026-10-18",
+    "spanDays": 1168,
+    "daysActive": 154,
     "multiFilmDays": 22,
-    "rewatches": 41,
-    "liked": 152,
-    "rated": 270,
+    "rewatches": 42,
+    "liked": 153,
+    "rated": 271,
     "releaseBreakdown": {
       "sameYear": 30,
-      "older": 241,
+      "older": 242,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 230,
-      "rewatches": 41
+      "rewatches": 42
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 271
+      "notReviewed": 272
     },
     "averageRating": 3.8,
     "perDay": 0.23,
@@ -18346,12 +18395,12 @@
       },
       {
         "year": 2026,
-        "films": 71,
-        "days": 61
+        "films": 72,
+        "days": 62
       }
     ],
     "perWeekday": [
-      35,
+      36,
       20,
       110,
       24,
@@ -18369,7 +18418,7 @@
       14,
       103,
       8,
-      14,
+      15,
       19,
       29
     ],
@@ -18528,7 +18577,7 @@
       },
       {
         "month": "2026-10",
-        "count": 12
+        "count": 13
       }
     ],
     "weekSeries": [],
@@ -18559,7 +18608,7 @@
       },
       {
         "rating": 4,
-        "count": 72
+        "count": 73
       },
       {
         "rating": 4.5,
@@ -18622,7 +18671,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 77,
+        "count": 78,
         "averageRating": 3.5
       },
       {
@@ -18782,6 +18831,16 @@
         "slug": "parasite-2019",
         "views": 2,
         "averageRating": 4.5
+      },
+      {
+        "title": "Percy Jackson & the Olympians: The Lightning Thief",
+        "year": "2010",
+        "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/",
+        "filmUid": "film:30264",
+        "lid": "1gJi",
+        "slug": "percy-jackson-the-olympians-the-lightning-thief",
+        "views": 2,
+        "averageRating": 4
       },
       {
         "title": "Rogue One: A Star Wars Story",
@@ -18951,18 +19010,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 271,
+        "n": 272,
         "kind": "latest",
-        "date": "2026-10-16",
-        "title": "A Clockwork Orange",
-        "year": "1971",
-        "rating": 4.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
+        "date": "2026-10-18",
+        "title": "Percy Jackson & the Olympians: The Lightning Thief",
+        "year": "2010",
+        "rating": 4,
+        "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:51867",
-        "lid": "2aVE",
-        "slug": "a-clockwork-orange"
+        "filmUid": "film:30264",
+        "lid": "1gJi",
+        "slug": "percy-jackson-the-olympians-the-lightning-thief"
       }
     ]
   }
