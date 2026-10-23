@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-22T08:54:15.751Z",
+  "generatedAt": "2026-10-23T08:50:52.693Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 109,
-    "daysActive": 94,
+    "films": 110,
+    "daysActive": 95,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 28,
-    "liked": 66
+    "rewatches": 29,
+    "liked": 67
   },
   "monthLabels": [
     {
@@ -8155,12 +8155,12 @@
       "week": 87,
       "weekday": 6,
       "count": 1,
-      "ratingAvg": 4.5,
+      "ratingAvg": 5,
       "films": [
         {
           "title": "Eyes Wide Shut",
           "year": "1999",
-          "rating": 4.5,
+          "rating": 5,
           "rewatch": true,
           "liked": true,
           "url": "https://letterboxd.com/kennypickettfan/film/eyes-wide-shut/1/",
@@ -8921,10 +8921,24 @@
       "date": "2026-10-22",
       "week": 94,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Barry Lyndon",
+          "year": "1975",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:49811",
+          "lid": "25A2",
+          "slug": "barry-lyndon"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/22/"
     },
@@ -11510,12 +11524,12 @@
     {
       "date": "2026-09-05",
       "count": 1,
-      "ratingAvg": 4.5,
+      "ratingAvg": 5,
       "films": [
         {
           "title": "Eyes Wide Shut",
           "year": "1999",
-          "rating": 4.5,
+          "rating": 5,
           "rewatch": true,
           "liked": true,
           "url": "https://letterboxd.com/kennypickettfan/film/eyes-wide-shut/1/",
@@ -11868,13 +11882,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/18/"
+    },
+    {
+      "date": "2026-10-22",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Barry Lyndon",
+          "year": "1975",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:49811",
+          "lid": "25A2",
+          "slug": "barry-lyndon"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/22/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-22",
+      "title": "Barry Lyndon",
+      "year": "1975",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:49811",
+      "lid": "25A2",
+      "slug": "barry-lyndon"
+    },
     {
       "date": "2026-10-18",
       "title": "Percy Jackson & the Olympians: The Lightning Thief",
@@ -12084,23 +12133,23 @@
       "filmUid": "film:1262019",
       "lid": "QX5s",
       "slug": "primetime-2026"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "The Departed",
-      "year": "2006",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-departed/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51042",
-      "lid": "28MA",
-      "slug": "the-departed"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-22",
+      "title": "Barry Lyndon",
+      "year": "1975",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:49811",
+      "lid": "25A2",
+      "slug": "barry-lyndon"
+    },
     {
       "date": "2026-10-18",
       "title": "Percy Jackson & the Olympians: The Lightning Thief",
@@ -12343,7 +12392,7 @@
       "date": "2026-09-05",
       "title": "Eyes Wide Shut",
       "year": "1999",
-      "rating": 4.5,
+      "rating": 5,
       "rewatch": true,
       "liked": true,
       "url": "https://letterboxd.com/kennypickettfan/film/eyes-wide-shut/1/",
@@ -17685,28 +17734,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 72,
+      "entries": 73,
       "distinctFilms": 65,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-18",
-      "spanDays": 290,
-      "daysActive": 62,
+      "lastEntry": "2026-10-22",
+      "spanDays": 294,
+      "daysActive": 63,
       "multiFilmDays": 8,
-      "rewatches": 23,
-      "liked": 46,
-      "rated": 72,
+      "rewatches": 24,
+      "liked": 47,
+      "rated": 73,
       "releaseBreakdown": {
         "sameYear": 8,
-        "older": 64,
+        "older": 65,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 49,
-        "rewatches": 23
+        "rewatches": 24
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 72
+        "notReviewed": 73
       },
       "averageRating": 4,
       "perDay": 0.25,
@@ -17730,8 +17779,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 72,
-          "days": 62
+          "films": 73,
+          "days": 63
         }
       ],
       "perWeekday": [
@@ -17739,7 +17788,7 @@
         7,
         6,
         6,
-        8,
+        9,
         15,
         16
       ],
@@ -17753,7 +17802,7 @@
         4,
         8,
         7,
-        13,
+        14,
         0,
         0
       ],
@@ -17796,7 +17845,7 @@
         },
         {
           "month": "2026-10",
-          "count": 13
+          "count": 14
         }
       ],
       "weekSeries": [
@@ -18056,7 +18105,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 0
+          "count": 1
         },
         {
           "week": 44,
@@ -18146,11 +18195,11 @@
         },
         {
           "rating": 4.5,
-          "count": 20
+          "count": 19
         },
         {
           "rating": 5,
-          "count": 13
+          "count": 15
         }
       ],
       "decades": [
@@ -18175,7 +18224,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 5,
+          "count": 6,
           "averageRating": 4.5
         },
         {
@@ -18221,6 +18270,16 @@
           "averageRating": 5
         },
         {
+          "title": "Barry Lyndon",
+          "year": "1975",
+          "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/",
+          "filmUid": "film:49811",
+          "lid": "25A2",
+          "slug": "barry-lyndon",
+          "views": 2,
+          "averageRating": 5
+        },
+        {
           "title": "Dune",
           "year": "2021",
           "url": "https://letterboxd.com/kennypickettfan/film/dune-2021/2/",
@@ -18238,7 +18297,7 @@
           "lid": "2axs",
           "slug": "eyes-wide-shut",
           "views": 2,
-          "averageRating": 4.5
+          "averageRating": 5
         },
         {
           "title": "Marty Supreme",
@@ -18316,18 +18375,18 @@
           "slug": "spider-man-homecoming"
         },
         {
-          "n": 72,
+          "n": 73,
           "kind": "latest",
-          "date": "2026-10-18",
-          "title": "Percy Jackson & the Olympians: The Lightning Thief",
-          "year": "2010",
-          "rating": 4,
-          "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+          "date": "2026-10-22",
+          "title": "Barry Lyndon",
+          "year": "1975",
+          "rating": 5,
+          "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:30264",
-          "lid": "1gJi",
-          "slug": "percy-jackson-the-olympians-the-lightning-thief"
+          "filmUid": "film:49811",
+          "lid": "25A2",
+          "slug": "barry-lyndon"
         }
       ]
     }
@@ -18335,28 +18394,28 @@
   "allTime": {
     "scope": "all",
     "films": 295,
-    "entries": 272,
+    "entries": 273,
     "distinctFilms": 236,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-18",
-    "spanDays": 1168,
-    "daysActive": 154,
+    "lastEntry": "2026-10-22",
+    "spanDays": 1172,
+    "daysActive": 155,
     "multiFilmDays": 22,
-    "rewatches": 42,
-    "liked": 153,
-    "rated": 271,
+    "rewatches": 43,
+    "liked": 154,
+    "rated": 272,
     "releaseBreakdown": {
       "sameYear": 30,
-      "older": 242,
+      "older": 243,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 230,
-      "rewatches": 42
+      "rewatches": 43
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 272
+      "notReviewed": 273
     },
     "averageRating": 3.8,
     "perDay": 0.23,
@@ -18395,8 +18454,8 @@
       },
       {
         "year": 2026,
-        "films": 72,
-        "days": 62
+        "films": 73,
+        "days": 63
       }
     ],
     "perWeekday": [
@@ -18404,7 +18463,7 @@
       20,
       110,
       24,
-      21,
+      22,
       29,
       32
     ],
@@ -18418,7 +18477,7 @@
       14,
       103,
       8,
-      15,
+      16,
       19,
       29
     ],
@@ -18577,7 +18636,7 @@
       },
       {
         "month": "2026-10",
-        "count": 13
+        "count": 14
       }
     ],
     "weekSeries": [],
@@ -18612,11 +18671,11 @@
       },
       {
         "rating": 4.5,
-        "count": 59
+        "count": 58
       },
       {
         "rating": 5,
-        "count": 33
+        "count": 35
       }
     ],
     "decades": [
@@ -18647,7 +18706,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 16,
+        "count": 17,
         "averageRating": 4.5
       },
       {
@@ -18763,6 +18822,16 @@
         "averageRating": 5
       },
       {
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/",
+        "filmUid": "film:49811",
+        "lid": "25A2",
+        "slug": "barry-lyndon",
+        "views": 2,
+        "averageRating": 5
+      },
+      {
         "title": "Batman Begins",
         "year": "2005",
         "url": "https://letterboxd.com/kennypickettfan/film/batman-begins/",
@@ -18790,7 +18859,7 @@
         "lid": "2axs",
         "slug": "eyes-wide-shut",
         "views": 2,
-        "averageRating": 4.5
+        "averageRating": 5
       },
       {
         "title": "Gladiator",
@@ -19010,18 +19079,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 272,
+        "n": 273,
         "kind": "latest",
-        "date": "2026-10-18",
-        "title": "Percy Jackson & the Olympians: The Lightning Thief",
-        "year": "2010",
-        "rating": 4,
-        "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
+        "date": "2026-10-22",
+        "title": "Barry Lyndon",
+        "year": "1975",
+        "rating": 5,
+        "url": "https://letterboxd.com/kennypickettfan/film/barry-lyndon/1/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:30264",
-        "lid": "1gJi",
-        "slug": "percy-jackson-the-olympians-the-lightning-thief"
+        "filmUid": "film:49811",
+        "lid": "25A2",
+        "slug": "barry-lyndon"
       }
     ]
   }

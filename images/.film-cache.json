@@ -54,6 +54,18 @@
       "runtime": 149,
       "averageRating": 4.23,
       "fetchedAt": "2026-10-14T04:46:56.151Z"
+    },
+    "https://letterboxd.com/film/barry-lyndon/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/0f/r6/bn/w7/x2JQCgLjieWOwvImeGtLmuNgsrq-0-600-0-900-crop.jpg?v=9c250ee969",
+      "runtime": 188,
+      "averageRating": 4.41,
+      "fetchedAt": "2026-10-23T08:50:52.852Z"
+    },
+    "https://letterboxd.com/film/eyes-wide-shut/": {
+      "poster": "https://a.ltrbxd.com/resized/film-poster/5/1/7/1/7/51717-eyes-wide-shut-0-600-0-900-crop.jpg?v=7010402aeb",
+      "runtime": 159,
+      "averageRating": 3.98,
+      "fetchedAt": "2026-10-23T08:50:53.237Z"
     }
   }
 }
