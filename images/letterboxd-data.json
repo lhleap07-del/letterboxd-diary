@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-24T08:48:04.032Z",
+  "generatedAt": "2026-10-25T08:47:30.948Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 112,
+    "films": 113,
     "daysActive": 97,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 30,
-    "liked": 68
+    "liked": 69
   },
   "monthLabels": [
     {
@@ -8971,9 +8971,22 @@
       "date": "2026-10-24",
       "week": 94,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3,
+      "count": 2,
+      "ratingAvg": 3.5,
       "films": [
+        {
+          "title": "You Can See Everything",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
+        },
         {
           "title": "After Hours",
           "year": "1985",
@@ -8988,7 +9001,7 @@
           "slug": "after-hours"
         }
       ],
-      "level": 2,
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/24/"
     },
@@ -11955,9 +11968,22 @@
     },
     {
       "date": "2026-10-24",
-      "count": 1,
-      "ratingAvg": 3,
+      "count": 2,
+      "ratingAvg": 3.5,
       "films": [
+        {
+          "title": "You Can See Everything",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
+        },
         {
           "title": "After Hours",
           "year": "1985",
@@ -11976,25 +12002,24 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-10-24",
-    "films": [
-      {
-        "date": "2026-10-24",
-        "title": "After Hours",
-        "year": "1985",
-        "rating": 3,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kennypickettfan/film/after-hours/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:45842",
-        "lid": "1VfS",
-        "slug": "after-hours"
-      }
-    ]
+    "date": "2026-10-25",
+    "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-24",
+      "title": "You Can See Everything",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1629443",
+      "lid": "16mVo",
+      "slug": "you-can-see-everything"
+    },
     {
       "date": "2026-10-24",
       "title": "After Hours",
@@ -12204,23 +12229,23 @@
       "filmUid": "film:47434",
       "lid": "1ZoE",
       "slug": "the-insider"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Oppenheimer",
-      "year": "2023",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/oppenheimer-2023/2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:784328",
-      "lid": "wUow",
-      "slug": "oppenheimer-2023"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-24",
+      "title": "You Can See Everything",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1629443",
+      "lid": "16mVo",
+      "slug": "you-can-see-everything"
+    },
     {
       "date": "2026-10-24",
       "title": "After Hours",
@@ -17847,33 +17872,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 75,
-      "distinctFilms": 66,
+      "entries": 76,
+      "distinctFilms": 67,
       "firstEntry": "2026-01-02",
       "lastEntry": "2026-10-24",
       "spanDays": 296,
       "daysActive": 65,
-      "multiFilmDays": 8,
+      "multiFilmDays": 9,
       "rewatches": 25,
-      "liked": 48,
-      "rated": 75,
+      "liked": 49,
+      "rated": 76,
       "releaseBreakdown": {
-        "sameYear": 8,
+        "sameYear": 9,
         "older": 67,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 50,
+        "firstWatches": 51,
         "rewatches": 25
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 75
+        "notReviewed": 76
       },
       "averageRating": 4,
-      "perDay": 0.25,
+      "perDay": 0.26,
       "perWeek": 1.8,
-      "perMonth": 7.7,
+      "perMonth": 7.8,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -17892,7 +17917,7 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 75,
+          "films": 76,
           "days": 65
         }
       ],
@@ -17903,7 +17928,7 @@
         6,
         9,
         16,
-        17
+        18
       ],
       "perMonthOfYear": [
         10,
@@ -17915,7 +17940,7 @@
         4,
         8,
         7,
-        16,
+        17,
         0,
         0
       ],
@@ -17958,7 +17983,7 @@
         },
         {
           "month": "2026-10",
-          "count": 16
+          "count": 17
         }
       ],
       "weekSeries": [
@@ -18218,7 +18243,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 3
+          "count": 4
         },
         {
           "week": 44,
@@ -18304,7 +18329,7 @@
         },
         {
           "rating": 4,
-          "count": 17
+          "count": 18
         },
         {
           "rating": 4.5,
@@ -18367,7 +18392,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 21,
+          "count": 22,
           "averageRating": 4
         }
       ],
@@ -18491,6 +18516,20 @@
           "n": 75,
           "kind": "step",
           "date": "2026-10-24",
+          "title": "You Can See Everything",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1629443",
+          "lid": "16mVo",
+          "slug": "you-can-see-everything"
+        },
+        {
+          "n": 76,
+          "kind": "latest",
+          "date": "2026-10-24",
           "title": "After Hours",
           "year": "1985",
           "rating": 3,
@@ -18506,34 +18545,34 @@
   },
   "allTime": {
     "scope": "all",
-    "films": 296,
-    "entries": 275,
-    "distinctFilms": 237,
+    "films": 297,
+    "entries": 276,
+    "distinctFilms": 238,
     "firstEntry": "2023-08-08",
     "lastEntry": "2026-10-24",
     "spanDays": 1174,
     "daysActive": 157,
-    "multiFilmDays": 22,
+    "multiFilmDays": 23,
     "rewatches": 44,
-    "liked": 155,
-    "rated": 274,
+    "liked": 156,
+    "rated": 275,
     "releaseBreakdown": {
-      "sameYear": 30,
+      "sameYear": 31,
       "older": 245,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 231,
+      "firstWatches": 232,
       "rewatches": 44
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 275
+      "notReviewed": 276
     },
     "averageRating": 3.8,
-    "perDay": 0.23,
+    "perDay": 0.24,
     "perWeek": 1.6,
-    "perMonth": 7.1,
+    "perMonth": 7.2,
     "streak": {
       "length": 7,
       "startDate": "2026-10-07",
@@ -18567,7 +18606,7 @@
       },
       {
         "year": 2026,
-        "films": 75,
+        "films": 76,
         "days": 65
       }
     ],
@@ -18578,7 +18617,7 @@
       24,
       22,
       30,
-      33
+      34
     ],
     "perMonthOfYear": [
       28,
@@ -18590,7 +18629,7 @@
       14,
       103,
       8,
-      18,
+      19,
       19,
       29
     ],
@@ -18749,7 +18788,7 @@
       },
       {
         "month": "2026-10",
-        "count": 16
+        "count": 17
       }
     ],
     "weekSeries": [],
@@ -18780,7 +18819,7 @@
       },
       {
         "rating": 4,
-        "count": 73
+        "count": 74
       },
       {
         "rating": 4.5,
@@ -18849,7 +18888,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 66,
+        "count": 67,
         "averageRating": 3.5
       }
     ],
@@ -19192,7 +19231,7 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 275,
+        "n": 276,
         "kind": "latest",
         "date": "2026-10-24",
         "title": "After Hours",
