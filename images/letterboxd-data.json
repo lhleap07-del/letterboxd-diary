@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-29T09:05:20.290Z",
+  "generatedAt": "2026-10-30T09:05:28.891Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 113,
-    "daysActive": 97,
+    "films": 115,
+    "daysActive": 98,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 30,
-    "liked": 69
+    "rewatches": 31,
+    "liked": 71
   },
   "monthLabels": [
     {
@@ -9053,10 +9053,37 @@
       "date": "2026-10-29",
       "week": 95,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 4.8,
+      "films": [
+        {
+          "title": "Heat",
+          "year": "1995",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/heat-1995/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51994",
+          "lid": "2bg8",
+          "slug": "heat-1995"
+        },
+        {
+          "title": "Black Swan",
+          "year": "2010",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:20956",
+          "lid": "Sw0",
+          "slug": "black-swan"
+        }
+      ],
+      "level": 3,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/29/"
     },
@@ -11999,13 +12026,75 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/24/"
+    },
+    {
+      "date": "2026-10-29",
+      "count": 2,
+      "ratingAvg": 4.8,
+      "films": [
+        {
+          "title": "Heat",
+          "year": "1995",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/heat-1995/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51994",
+          "lid": "2bg8",
+          "slug": "heat-1995"
+        },
+        {
+          "title": "Black Swan",
+          "year": "2010",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:20956",
+          "lid": "Sw0",
+          "slug": "black-swan"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/29/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-29",
+      "title": "Heat",
+      "year": "1995",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/heat-1995/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51994",
+      "lid": "2bg8",
+      "slug": "heat-1995"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Black Swan",
+      "year": "2010",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:20956",
+      "lid": "Sw0",
+      "slug": "black-swan"
+    },
     {
       "date": "2026-10-24",
       "title": "You Can See Everything",
@@ -12201,37 +12290,37 @@
       "filmUid": "film:46588",
       "lid": "1Xcc",
       "slug": "killers-kiss"
-    },
-    {
-      "date": "2026-10-08",
-      "title": "Lolita",
-      "year": "1962",
-      "rating": 4,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/lolita/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51350",
-      "lid": "29Ag",
-      "slug": "lolita"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "The Insider",
-      "year": "1999",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-insider/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:47434",
-      "lid": "1ZoE",
-      "slug": "the-insider"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-29",
+      "title": "Heat",
+      "year": "1995",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/heat-1995/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51994",
+      "lid": "2bg8",
+      "slug": "heat-1995"
+    },
+    {
+      "date": "2026-10-29",
+      "title": "Black Swan",
+      "year": "2010",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:20956",
+      "lid": "Sw0",
+      "slug": "black-swan"
+    },
     {
       "date": "2026-10-24",
       "title": "You Can See Everything",
@@ -17872,33 +17961,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 76,
-      "distinctFilms": 67,
+      "entries": 78,
+      "distinctFilms": 68,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-24",
-      "spanDays": 296,
-      "daysActive": 65,
-      "multiFilmDays": 9,
-      "rewatches": 25,
-      "liked": 49,
-      "rated": 76,
+      "lastEntry": "2026-10-29",
+      "spanDays": 301,
+      "daysActive": 66,
+      "multiFilmDays": 10,
+      "rewatches": 26,
+      "liked": 51,
+      "rated": 78,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 67,
+        "older": 69,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 51,
-        "rewatches": 25
+        "firstWatches": 52,
+        "rewatches": 26
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 76
+        "notReviewed": 78
       },
       "averageRating": 4,
       "perDay": 0.26,
       "perWeek": 1.8,
-      "perMonth": 7.8,
+      "perMonth": 7.9,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -17917,8 +18006,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 76,
-          "days": 65
+          "films": 78,
+          "days": 66
         }
       ],
       "perWeekday": [
@@ -17926,7 +18015,7 @@
         7,
         6,
         6,
-        9,
+        11,
         16,
         18
       ],
@@ -17940,7 +18029,7 @@
         4,
         8,
         7,
-        17,
+        19,
         0,
         0
       ],
@@ -17983,7 +18072,7 @@
         },
         {
           "month": "2026-10",
-          "count": 17
+          "count": 19
         }
       ],
       "weekSeries": [
@@ -18249,7 +18338,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 0
+          "count": 2
         },
         {
           "week": 45,
@@ -18333,11 +18422,11 @@
         },
         {
           "rating": 4.5,
-          "count": 19
+          "count": 20
         },
         {
           "rating": 5,
-          "count": 16
+          "count": 17
         }
       ],
       "decades": [
@@ -18374,7 +18463,7 @@
         {
           "decade": 1990,
           "label": "1990s",
-          "count": 10,
+          "count": 11,
           "averageRating": 4
         },
         {
@@ -18386,7 +18475,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 19,
+          "count": 20,
           "averageRating": 4
         },
         {
@@ -18424,6 +18513,16 @@
           "filmUid": "film:49811",
           "lid": "25A2",
           "slug": "barry-lyndon",
+          "views": 2,
+          "averageRating": 5
+        },
+        {
+          "title": "Black Swan",
+          "year": "2010",
+          "url": "https://letterboxd.com/kennypickettfan/film/black-swan/1/",
+          "filmUid": "film:20956",
+          "lid": "Sw0",
+          "slug": "black-swan",
           "views": 2,
           "averageRating": 5
         },
@@ -18527,51 +18626,51 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 76,
+          "n": 78,
           "kind": "latest",
-          "date": "2026-10-24",
-          "title": "After Hours",
-          "year": "1985",
-          "rating": 3,
-          "url": "https://letterboxd.com/kennypickettfan/film/after-hours/",
+          "date": "2026-10-29",
+          "title": "Black Swan",
+          "year": "2010",
+          "rating": 5,
+          "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:45842",
-          "lid": "1VfS",
-          "slug": "after-hours"
+          "filmUid": "film:20956",
+          "lid": "Sw0",
+          "slug": "black-swan"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 297,
-    "entries": 276,
-    "distinctFilms": 238,
+    "films": 298,
+    "entries": 278,
+    "distinctFilms": 239,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-24",
-    "spanDays": 1174,
-    "daysActive": 157,
-    "multiFilmDays": 23,
-    "rewatches": 44,
-    "liked": 156,
-    "rated": 275,
+    "lastEntry": "2026-10-29",
+    "spanDays": 1179,
+    "daysActive": 158,
+    "multiFilmDays": 24,
+    "rewatches": 45,
+    "liked": 158,
+    "rated": 277,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 245,
+      "older": 247,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 232,
-      "rewatches": 44
+      "firstWatches": 233,
+      "rewatches": 45
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 276
+      "notReviewed": 278
     },
     "averageRating": 3.8,
     "perDay": 0.24,
-    "perWeek": 1.6,
+    "perWeek": 1.7,
     "perMonth": 7.2,
     "streak": {
       "length": 7,
@@ -18606,8 +18705,8 @@
       },
       {
         "year": 2026,
-        "films": 76,
-        "days": 65
+        "films": 78,
+        "days": 66
       }
     ],
     "perWeekday": [
@@ -18615,7 +18714,7 @@
       20,
       110,
       24,
-      22,
+      24,
       30,
       34
     ],
@@ -18629,7 +18728,7 @@
       14,
       103,
       8,
-      19,
+      21,
       19,
       29
     ],
@@ -18788,7 +18887,7 @@
       },
       {
         "month": "2026-10",
-        "count": 17
+        "count": 19
       }
     ],
     "weekSeries": [],
@@ -18823,11 +18922,11 @@
       },
       {
         "rating": 4.5,
-        "count": 58
+        "count": 59
       },
       {
         "rating": 5,
-        "count": 36
+        "count": 37
       }
     ],
     "decades": [
@@ -18870,7 +18969,7 @@
       {
         "decade": 1990,
         "label": "1990s",
-        "count": 27,
+        "count": 28,
         "averageRating": 4
       },
       {
@@ -18882,7 +18981,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 78,
+        "count": 79,
         "averageRating": 3.5
       },
       {
@@ -18912,6 +19011,16 @@
         "slug": "dune-2021",
         "views": 4,
         "averageRating": 4.5
+      },
+      {
+        "title": "Black Swan",
+        "year": "2010",
+        "url": "https://letterboxd.com/kennypickettfan/film/black-swan/",
+        "filmUid": "film:20956",
+        "lid": "Sw0",
+        "slug": "black-swan",
+        "views": 3,
+        "averageRating": 5
       },
       {
         "title": "Eyes Wide Shut",
@@ -19002,16 +19111,6 @@
         "slug": "batman-begins",
         "views": 2,
         "averageRating": 4
-      },
-      {
-        "title": "Black Swan",
-        "year": "2010",
-        "url": "https://letterboxd.com/kennypickettfan/film/black-swan/",
-        "filmUid": "film:20956",
-        "lid": "Sw0",
-        "slug": "black-swan",
-        "views": 2,
-        "averageRating": 5
       },
       {
         "title": "Gladiator",
@@ -19231,18 +19330,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 276,
+        "n": 278,
         "kind": "latest",
-        "date": "2026-10-24",
-        "title": "After Hours",
-        "year": "1985",
-        "rating": 3,
-        "url": "https://letterboxd.com/kennypickettfan/film/after-hours/",
+        "date": "2026-10-29",
+        "title": "Black Swan",
+        "year": "2010",
+        "rating": 5,
+        "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:45842",
-        "lid": "1VfS",
-        "slug": "after-hours"
+        "filmUid": "film:20956",
+        "lid": "Sw0",
+        "slug": "black-swan"
       }
     ]
   }

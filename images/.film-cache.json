@@ -66,6 +66,12 @@
       "runtime": 159,
       "averageRating": 3.98,
       "fetchedAt": "2026-10-23T08:50:53.237Z"
+    },
+    "https://letterboxd.com/film/black-swan/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/yt/ae/iz/kj/bIjkE9Og0nulRycj144sCcQcsZ6-0-600-0-900-crop.jpg?v=a571e4c644",
+      "runtime": 108,
+      "averageRating": 4.17,
+      "fetchedAt": "2026-10-30T09:05:29.156Z"
     }
   }
 }
