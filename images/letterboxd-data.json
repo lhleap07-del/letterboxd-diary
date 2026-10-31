@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-30T09:05:28.891Z",
+  "generatedAt": "2026-10-31T08:55:15.187Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 115,
-    "daysActive": 98,
+    "films": 116,
+    "daysActive": 99,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 31,
-    "liked": 71
+    "rewatches": 32,
+    "liked": 72
   },
   "monthLabels": [
     {
@@ -9091,10 +9091,24 @@
       "date": "2026-10-30",
       "week": 95,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "War Dogs",
+          "year": "2016",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:235388",
+          "lid": "9SlO",
+          "slug": "war-dogs-2016"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/30/"
     },
@@ -12060,13 +12074,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/29/"
+    },
+    {
+      "date": "2026-10-30",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "War Dogs",
+          "year": "2016",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:235388",
+          "lid": "9SlO",
+          "slug": "war-dogs-2016"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/30/"
     }
   ],
   "onThisDay": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-10-30",
+      "title": "War Dogs",
+      "year": "2016",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:235388",
+      "lid": "9SlO",
+      "slug": "war-dogs-2016"
+    },
     {
       "date": "2026-10-29",
       "title": "Heat",
@@ -12276,23 +12325,23 @@
       "filmUid": "film:279",
       "lid": "J0",
       "slug": "21-jump-street"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Killer's Kiss",
-      "year": "1955",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/killers-kiss/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:46588",
-      "lid": "1Xcc",
-      "slug": "killers-kiss"
     }
   ],
   "diary": [
+    {
+      "date": "2026-10-30",
+      "title": "War Dogs",
+      "year": "2016",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:235388",
+      "lid": "9SlO",
+      "slug": "war-dogs-2016"
+    },
     {
       "date": "2026-10-29",
       "title": "Heat",
@@ -17961,33 +18010,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 78,
-      "distinctFilms": 68,
+      "entries": 79,
+      "distinctFilms": 69,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-29",
-      "spanDays": 301,
-      "daysActive": 66,
+      "lastEntry": "2026-10-30",
+      "spanDays": 302,
+      "daysActive": 67,
       "multiFilmDays": 10,
-      "rewatches": 26,
-      "liked": 51,
-      "rated": 78,
+      "rewatches": 27,
+      "liked": 52,
+      "rated": 79,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 69,
+        "older": 70,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 52,
-        "rewatches": 26
+        "rewatches": 27
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 78
+        "notReviewed": 79
       },
       "averageRating": 4,
       "perDay": 0.26,
       "perWeek": 1.8,
-      "perMonth": 7.9,
+      "perMonth": 8,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18006,8 +18055,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 78,
-          "days": 66
+          "films": 79,
+          "days": 67
         }
       ],
       "perWeekday": [
@@ -18016,7 +18065,7 @@
         6,
         6,
         11,
-        16,
+        17,
         18
       ],
       "perMonthOfYear": [
@@ -18029,7 +18078,7 @@
         4,
         8,
         7,
-        19,
+        20,
         0,
         0
       ],
@@ -18072,7 +18121,7 @@
         },
         {
           "month": "2026-10",
-          "count": 19
+          "count": 20
         }
       ],
       "weekSeries": [
@@ -18338,7 +18387,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 2
+          "count": 3
         },
         {
           "week": 45,
@@ -18418,7 +18467,7 @@
         },
         {
           "rating": 4,
-          "count": 18
+          "count": 19
         },
         {
           "rating": 4.5,
@@ -18475,7 +18524,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 20,
+          "count": 21,
           "averageRating": 4
         },
         {
@@ -18626,18 +18675,18 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 78,
+          "n": 79,
           "kind": "latest",
-          "date": "2026-10-29",
-          "title": "Black Swan",
-          "year": "2010",
-          "rating": 5,
-          "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+          "date": "2026-10-30",
+          "title": "War Dogs",
+          "year": "2016",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:20956",
-          "lid": "Sw0",
-          "slug": "black-swan"
+          "filmUid": "film:235388",
+          "lid": "9SlO",
+          "slug": "war-dogs-2016"
         }
       ]
     }
@@ -18645,28 +18694,28 @@
   "allTime": {
     "scope": "all",
     "films": 298,
-    "entries": 278,
+    "entries": 279,
     "distinctFilms": 239,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-29",
-    "spanDays": 1179,
-    "daysActive": 158,
+    "lastEntry": "2026-10-30",
+    "spanDays": 1180,
+    "daysActive": 159,
     "multiFilmDays": 24,
-    "rewatches": 45,
-    "liked": 158,
-    "rated": 277,
+    "rewatches": 46,
+    "liked": 159,
+    "rated": 278,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 247,
+      "older": 248,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 233,
-      "rewatches": 45
+      "rewatches": 46
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 278
+      "notReviewed": 279
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18705,8 +18754,8 @@
       },
       {
         "year": 2026,
-        "films": 78,
-        "days": 66
+        "films": 79,
+        "days": 67
       }
     ],
     "perWeekday": [
@@ -18715,7 +18764,7 @@
       110,
       24,
       24,
-      30,
+      31,
       34
     ],
     "perMonthOfYear": [
@@ -18728,7 +18777,7 @@
       14,
       103,
       8,
-      21,
+      22,
       19,
       29
     ],
@@ -18887,7 +18936,7 @@
       },
       {
         "month": "2026-10",
-        "count": 19
+        "count": 20
       }
     ],
     "weekSeries": [],
@@ -18918,7 +18967,7 @@
       },
       {
         "rating": 4,
-        "count": 74
+        "count": 75
       },
       {
         "rating": 4.5,
@@ -18981,7 +19030,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 79,
+        "count": 80,
         "averageRating": 3.5
       },
       {
@@ -19233,6 +19282,16 @@
         "averageRating": 4.5
       },
       {
+        "title": "War Dogs",
+        "year": "2016",
+        "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/",
+        "filmUid": "film:235388",
+        "lid": "9SlO",
+        "slug": "war-dogs-2016",
+        "views": 2,
+        "averageRating": 4
+      },
+      {
         "title": "Whiplash",
         "year": "2014",
         "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/",
@@ -19330,18 +19389,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 278,
+        "n": 279,
         "kind": "latest",
-        "date": "2026-10-29",
-        "title": "Black Swan",
-        "year": "2010",
-        "rating": 5,
-        "url": "https://letterboxd.com/kennypickettfan/film/black-swan/2/",
+        "date": "2026-10-30",
+        "title": "War Dogs",
+        "year": "2016",
+        "rating": 4,
+        "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:20956",
-        "lid": "Sw0",
-        "slug": "black-swan"
+        "filmUid": "film:235388",
+        "lid": "9SlO",
+        "slug": "war-dogs-2016"
       }
     ]
   }
