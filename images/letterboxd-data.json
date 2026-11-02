@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-01T08:59:08.898Z",
+  "generatedAt": "2026-11-02T09:21:03.998Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 116,
-    "daysActive": 99,
+    "films": 117,
+    "daysActive": 100,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 32,
-    "liked": 72
+    "liked": 73
   },
   "monthLabels": [
     {
@@ -9127,10 +9127,24 @@
       "date": "2026-11-01",
       "week": 96,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "A Bronx Tale",
+          "year": "1993",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:50932",
+          "lid": "28uQ",
+          "slug": "a-bronx-tale"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/01/"
     },
@@ -12095,13 +12109,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/10/30/"
+    },
+    {
+      "date": "2026-11-01",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "A Bronx Tale",
+          "year": "1993",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:50932",
+          "lid": "28uQ",
+          "slug": "a-bronx-tale"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/01/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-01",
+      "title": "A Bronx Tale",
+      "year": "1993",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:50932",
+      "lid": "28uQ",
+      "slug": "a-bronx-tale"
+    },
     {
       "date": "2026-10-30",
       "title": "War Dogs",
@@ -12311,23 +12360,23 @@
       "filmUid": "film:47469",
       "lid": "1Zui",
       "slug": "twilight-2008"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "21 Jump Street",
-      "year": "2012",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/21-jump-street/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:279",
-      "lid": "J0",
-      "slug": "21-jump-street"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-01",
+      "title": "A Bronx Tale",
+      "year": "1993",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:50932",
+      "lid": "28uQ",
+      "slug": "a-bronx-tale"
+    },
     {
       "date": "2026-10-30",
       "title": "War Dogs",
@@ -18010,28 +18059,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 79,
-      "distinctFilms": 69,
+      "entries": 80,
+      "distinctFilms": 70,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-10-30",
-      "spanDays": 302,
-      "daysActive": 67,
+      "lastEntry": "2026-11-01",
+      "spanDays": 304,
+      "daysActive": 68,
       "multiFilmDays": 10,
       "rewatches": 27,
-      "liked": 52,
-      "rated": 79,
+      "liked": 53,
+      "rated": 80,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 70,
+        "older": 71,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 52,
+        "firstWatches": 53,
         "rewatches": 27
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 79
+        "notReviewed": 80
       },
       "averageRating": 4,
       "perDay": 0.26,
@@ -18055,12 +18104,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 79,
-          "days": 67
+          "films": 80,
+          "days": 68
         }
       ],
       "perWeekday": [
-        14,
+        15,
         7,
         6,
         6,
@@ -18079,7 +18128,7 @@
         8,
         7,
         20,
-        0,
+        1,
         0
       ],
       "monthSeries": [
@@ -18122,6 +18171,10 @@
         {
           "month": "2026-10",
           "count": 20
+        },
+        {
+          "month": "2026-11",
+          "count": 1
         }
       ],
       "weekSeries": [
@@ -18387,7 +18440,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 3
+          "count": 4
         },
         {
           "week": 45,
@@ -18471,7 +18524,7 @@
         },
         {
           "rating": 4.5,
-          "count": 20
+          "count": 21
         },
         {
           "rating": 5,
@@ -18512,7 +18565,7 @@
         {
           "decade": 1990,
           "label": "1990s",
-          "count": 11,
+          "count": 12,
           "averageRating": 4
         },
         {
@@ -18675,47 +18728,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 79,
+          "n": 80,
           "kind": "latest",
-          "date": "2026-10-30",
-          "title": "War Dogs",
-          "year": "2016",
-          "rating": 4,
-          "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+          "date": "2026-11-01",
+          "title": "A Bronx Tale",
+          "year": "1993",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:235388",
-          "lid": "9SlO",
-          "slug": "war-dogs-2016"
+          "filmUid": "film:50932",
+          "lid": "28uQ",
+          "slug": "a-bronx-tale"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 298,
-    "entries": 279,
-    "distinctFilms": 239,
+    "films": 299,
+    "entries": 280,
+    "distinctFilms": 240,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-10-30",
-    "spanDays": 1180,
-    "daysActive": 159,
+    "lastEntry": "2026-11-01",
+    "spanDays": 1182,
+    "daysActive": 160,
     "multiFilmDays": 24,
     "rewatches": 46,
-    "liked": 159,
-    "rated": 278,
+    "liked": 160,
+    "rated": 279,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 248,
+      "older": 249,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 233,
+      "firstWatches": 234,
       "rewatches": 46
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 279
+      "notReviewed": 280
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18754,12 +18807,12 @@
       },
       {
         "year": 2026,
-        "films": 79,
-        "days": 67
+        "films": 80,
+        "days": 68
       }
     ],
     "perWeekday": [
-      36,
+      37,
       20,
       110,
       24,
@@ -18778,7 +18831,7 @@
       103,
       8,
       22,
-      19,
+      20,
       29
     ],
     "monthSeries": [
@@ -18937,6 +18990,10 @@
       {
         "month": "2026-10",
         "count": 20
+      },
+      {
+        "month": "2026-11",
+        "count": 1
       }
     ],
     "weekSeries": [],
@@ -18971,7 +19028,7 @@
       },
       {
         "rating": 4.5,
-        "count": 59
+        "count": 60
       },
       {
         "rating": 5,
@@ -19018,7 +19075,7 @@
       {
         "decade": 1990,
         "label": "1990s",
-        "count": 28,
+        "count": 29,
         "averageRating": 4
       },
       {
@@ -19389,18 +19446,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 279,
+        "n": 280,
         "kind": "latest",
-        "date": "2026-10-30",
-        "title": "War Dogs",
-        "year": "2016",
-        "rating": 4,
-        "url": "https://letterboxd.com/kennypickettfan/film/war-dogs-2016/1/",
+        "date": "2026-11-01",
+        "title": "A Bronx Tale",
+        "year": "1993",
+        "rating": 4.5,
+        "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:235388",
-        "lid": "9SlO",
-        "slug": "war-dogs-2016"
+        "filmUid": "film:50932",
+        "lid": "28uQ",
+        "slug": "a-bronx-tale"
       }
     ]
   }
