@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-02T09:21:03.998Z",
+  "generatedAt": "2026-11-03T09:04:44.750Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12133,8 +12133,23 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-02",
-    "films": []
+    "date": "2026-11-03",
+    "films": [
+      {
+        "date": "2024-11-03",
+        "title": "The Seventh Seal",
+        "year": "1957",
+        "rating": 4.5,
+        "rewatch": false,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-seventh-seal/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51620",
+        "lid": "2ahO",
+        "slug": "the-seventh-seal"
+      }
+    ]
   },
   "recent": [
     {
