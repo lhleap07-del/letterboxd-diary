@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-05T09:16:06.416Z",
+  "generatedAt": "2026-11-06T09:11:18.617Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 117,
-    "daysActive": 100,
+    "films": 118,
+    "daysActive": 101,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 32,
-    "liked": 73
+    "liked": 74
   },
   "monthLabels": [
     {
@@ -9185,10 +9185,24 @@
       "date": "2026-11-05",
       "week": 96,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Paris, Texas",
+          "year": "1984",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51469",
+          "lid": "29Ts",
+          "slug": "paris-texas"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/05/"
     },
@@ -12130,13 +12144,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/01/"
+    },
+    {
+      "date": "2026-11-05",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Paris, Texas",
+          "year": "1984",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51469",
+          "lid": "29Ts",
+          "slug": "paris-texas"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/05/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-05",
+      "title": "Paris, Texas",
+      "year": "1984",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51469",
+      "lid": "29Ts",
+      "slug": "paris-texas"
+    },
     {
       "date": "2026-11-01",
       "title": "A Bronx Tale",
@@ -12346,23 +12395,23 @@
       "filmUid": "film:46484",
       "lid": "1WVq",
       "slug": "fear-and-desire"
-    },
-    {
-      "date": "2026-10-10",
-      "title": "Twilight",
-      "year": "2008",
-      "rating": 1.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/twilight-2008/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:47469",
-      "lid": "1Zui",
-      "slug": "twilight-2008"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-05",
+      "title": "Paris, Texas",
+      "year": "1984",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51469",
+      "lid": "29Ts",
+      "slug": "paris-texas"
+    },
     {
       "date": "2026-11-01",
       "title": "A Bronx Tale",
@@ -18059,28 +18108,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 80,
-      "distinctFilms": 70,
+      "entries": 81,
+      "distinctFilms": 71,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-01",
-      "spanDays": 304,
-      "daysActive": 68,
+      "lastEntry": "2026-11-05",
+      "spanDays": 308,
+      "daysActive": 69,
       "multiFilmDays": 10,
       "rewatches": 27,
-      "liked": 53,
-      "rated": 80,
+      "liked": 54,
+      "rated": 81,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 71,
+        "older": 72,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 53,
+        "firstWatches": 54,
         "rewatches": 27
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 80
+        "notReviewed": 81
       },
       "averageRating": 4,
       "perDay": 0.26,
@@ -18104,8 +18153,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 80,
-          "days": 68
+          "films": 81,
+          "days": 69
         }
       ],
       "perWeekday": [
@@ -18113,7 +18162,7 @@
         7,
         6,
         6,
-        11,
+        12,
         17,
         18
       ],
@@ -18128,7 +18177,7 @@
         8,
         7,
         20,
-        1,
+        2,
         0
       ],
       "monthSeries": [
@@ -18174,7 +18223,7 @@
         },
         {
           "month": "2026-11",
-          "count": 1
+          "count": 2
         }
       ],
       "weekSeries": [
@@ -18446,7 +18495,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 0
+          "count": 1
         },
         {
           "week": 46,
@@ -18524,7 +18573,7 @@
         },
         {
           "rating": 4.5,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 5,
@@ -18559,7 +18608,7 @@
         {
           "decade": 1980,
           "label": "1980s",
-          "count": 6,
+          "count": 7,
           "averageRating": 4.5
         },
         {
@@ -18728,47 +18777,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 80,
+          "n": 81,
           "kind": "latest",
-          "date": "2026-11-01",
-          "title": "A Bronx Tale",
-          "year": "1993",
+          "date": "2026-11-05",
+          "title": "Paris, Texas",
+          "year": "1984",
           "rating": 4.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+          "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:50932",
-          "lid": "28uQ",
-          "slug": "a-bronx-tale"
+          "filmUid": "film:51469",
+          "lid": "29Ts",
+          "slug": "paris-texas"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 299,
-    "entries": 280,
-    "distinctFilms": 240,
+    "films": 300,
+    "entries": 281,
+    "distinctFilms": 241,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-01",
-    "spanDays": 1182,
-    "daysActive": 160,
+    "lastEntry": "2026-11-05",
+    "spanDays": 1186,
+    "daysActive": 161,
     "multiFilmDays": 24,
     "rewatches": 46,
-    "liked": 160,
-    "rated": 279,
+    "liked": 161,
+    "rated": 280,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 249,
+      "older": 250,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 234,
+      "firstWatches": 235,
       "rewatches": 46
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 280
+      "notReviewed": 281
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18807,8 +18856,8 @@
       },
       {
         "year": 2026,
-        "films": 80,
-        "days": 68
+        "films": 81,
+        "days": 69
       }
     ],
     "perWeekday": [
@@ -18816,7 +18865,7 @@
       20,
       110,
       24,
-      24,
+      25,
       31,
       34
     ],
@@ -18831,7 +18880,7 @@
       103,
       8,
       22,
-      20,
+      21,
       29
     ],
     "monthSeries": [
@@ -18993,7 +19042,7 @@
       },
       {
         "month": "2026-11",
-        "count": 1
+        "count": 2
       }
     ],
     "weekSeries": [],
@@ -19028,7 +19077,7 @@
       },
       {
         "rating": 4.5,
-        "count": 60
+        "count": 61
       },
       {
         "rating": 5,
@@ -19069,7 +19118,7 @@
       {
         "decade": 1980,
         "label": "1980s",
-        "count": 21,
+        "count": 22,
         "averageRating": 4
       },
       {
@@ -19446,18 +19495,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 280,
+        "n": 281,
         "kind": "latest",
-        "date": "2026-11-01",
-        "title": "A Bronx Tale",
-        "year": "1993",
+        "date": "2026-11-05",
+        "title": "Paris, Texas",
+        "year": "1984",
         "rating": 4.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/a-bronx-tale/",
+        "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:50932",
-        "lid": "28uQ",
-        "slug": "a-bronx-tale"
+        "filmUid": "film:51469",
+        "lid": "29Ts",
+        "slug": "paris-texas"
       }
     ]
   }
