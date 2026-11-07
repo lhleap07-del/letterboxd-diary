@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-06T09:11:18.617Z",
+  "generatedAt": "2026-11-07T09:00:52.858Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12168,8 +12168,23 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-06",
-    "films": []
+    "date": "2026-11-07",
+    "films": [
+      {
+        "date": "2024-11-07",
+        "title": "The Godfather",
+        "year": "1972",
+        "rating": 5,
+        "rewatch": true,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-godfather/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51818",
+        "lid": "2aNK",
+        "slug": "the-godfather"
+      }
+    ]
   },
   "recent": [
     {
