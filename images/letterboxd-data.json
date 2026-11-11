@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-10T09:04:50.002Z",
+  "generatedAt": "2026-11-11T09:10:20.657Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 118,
-    "daysActive": 101,
+    "films": 119,
+    "daysActive": 102,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 32,
-    "liked": 74
+    "liked": 75
   },
   "monthLabels": [
     {
@@ -9254,10 +9254,24 @@
       "date": "2026-11-10",
       "week": 97,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Punch-Drunk Love",
+          "year": "2002",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:47914",
+          "lid": "20E4",
+          "slug": "punch-drunk-love"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/10/"
     },
@@ -12165,13 +12179,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/05/"
+    },
+    {
+      "date": "2026-11-10",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Punch-Drunk Love",
+          "year": "2002",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:47914",
+          "lid": "20E4",
+          "slug": "punch-drunk-love"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/10/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-10",
+      "title": "Punch-Drunk Love",
+      "year": "2002",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:47914",
+      "lid": "20E4",
+      "slug": "punch-drunk-love"
+    },
     {
       "date": "2026-11-05",
       "title": "Paris, Texas",
@@ -12381,23 +12430,23 @@
       "filmUid": "film:51818",
       "lid": "2aNK",
       "slug": "the-godfather"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Fear and Desire",
-      "year": "1952",
-      "rating": 1.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/fear-and-desire/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:46484",
-      "lid": "1WVq",
-      "slug": "fear-and-desire"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-10",
+      "title": "Punch-Drunk Love",
+      "year": "2002",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:47914",
+      "lid": "20E4",
+      "slug": "punch-drunk-love"
+    },
     {
       "date": "2026-11-05",
       "title": "Paris, Texas",
@@ -18108,28 +18157,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 81,
-      "distinctFilms": 71,
+      "entries": 82,
+      "distinctFilms": 72,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-05",
-      "spanDays": 308,
-      "daysActive": 69,
+      "lastEntry": "2026-11-10",
+      "spanDays": 313,
+      "daysActive": 70,
       "multiFilmDays": 10,
       "rewatches": 27,
-      "liked": 54,
-      "rated": 81,
+      "liked": 55,
+      "rated": 82,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 72,
+        "older": 73,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 54,
+        "firstWatches": 55,
         "rewatches": 27
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 81
+        "notReviewed": 82
       },
       "averageRating": 4,
       "perDay": 0.26,
@@ -18153,14 +18202,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 81,
-          "days": 69
+          "films": 82,
+          "days": 70
         }
       ],
       "perWeekday": [
         15,
         7,
-        6,
+        7,
         6,
         12,
         17,
@@ -18177,7 +18226,7 @@
         8,
         7,
         20,
-        2,
+        3,
         0
       ],
       "monthSeries": [
@@ -18223,7 +18272,7 @@
         },
         {
           "month": "2026-11",
-          "count": 2
+          "count": 3
         }
       ],
       "weekSeries": [
@@ -18501,7 +18550,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 0
+          "count": 1
         },
         {
           "week": 47,
@@ -18569,7 +18618,7 @@
         },
         {
           "rating": 4,
-          "count": 19
+          "count": 20
         },
         {
           "rating": 4.5,
@@ -18620,7 +18669,7 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 5,
+          "count": 6,
           "averageRating": 3.5
         },
         {
@@ -18777,47 +18826,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 81,
+          "n": 82,
           "kind": "latest",
-          "date": "2026-11-05",
-          "title": "Paris, Texas",
-          "year": "1984",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+          "date": "2026-11-10",
+          "title": "Punch-Drunk Love",
+          "year": "2002",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:51469",
-          "lid": "29Ts",
-          "slug": "paris-texas"
+          "filmUid": "film:47914",
+          "lid": "20E4",
+          "slug": "punch-drunk-love"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 300,
-    "entries": 281,
-    "distinctFilms": 241,
+    "films": 301,
+    "entries": 282,
+    "distinctFilms": 242,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-05",
-    "spanDays": 1186,
-    "daysActive": 161,
+    "lastEntry": "2026-11-10",
+    "spanDays": 1191,
+    "daysActive": 162,
     "multiFilmDays": 24,
     "rewatches": 46,
-    "liked": 161,
-    "rated": 280,
+    "liked": 162,
+    "rated": 281,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 250,
+      "older": 251,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 235,
+      "firstWatches": 236,
       "rewatches": 46
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 281
+      "notReviewed": 282
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18856,14 +18905,14 @@
       },
       {
         "year": 2026,
-        "films": 81,
-        "days": 69
+        "films": 82,
+        "days": 70
       }
     ],
     "perWeekday": [
       37,
       20,
-      110,
+      111,
       24,
       25,
       31,
@@ -18880,7 +18929,7 @@
       103,
       8,
       22,
-      21,
+      22,
       29
     ],
     "monthSeries": [
@@ -19042,7 +19091,7 @@
       },
       {
         "month": "2026-11",
-        "count": 2
+        "count": 3
       }
     ],
     "weekSeries": [],
@@ -19073,7 +19122,7 @@
       },
       {
         "rating": 4,
-        "count": 75
+        "count": 76
       },
       {
         "rating": 4.5,
@@ -19130,7 +19179,7 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 41,
+        "count": 42,
         "averageRating": 3.5
       },
       {
@@ -19495,18 +19544,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 281,
+        "n": 282,
         "kind": "latest",
-        "date": "2026-11-05",
-        "title": "Paris, Texas",
-        "year": "1984",
-        "rating": 4.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/paris-texas/",
+        "date": "2026-11-10",
+        "title": "Punch-Drunk Love",
+        "year": "2002",
+        "rating": 4,
+        "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:51469",
-        "lid": "29Ts",
-        "slug": "paris-texas"
+        "filmUid": "film:47914",
+        "lid": "20E4",
+        "slug": "punch-drunk-love"
       }
     ]
   }
