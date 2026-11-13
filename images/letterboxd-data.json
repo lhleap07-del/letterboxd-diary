@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-12T09:16:18.181Z",
+  "generatedAt": "2026-11-13T09:13:36.649Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 119,
-    "daysActive": 102,
+    "films": 120,
+    "daysActive": 103,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 32,
-    "liked": 75
+    "rewatches": 33,
+    "liked": 76
   },
   "monthLabels": [
     {
@@ -9290,10 +9290,24 @@
       "date": "2026-11-12",
       "week": 97,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Godfather Part II",
+          "year": "1974",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51816",
+          "lid": "2aNq",
+          "slug": "the-godfather-part-ii"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/12/"
     },
@@ -12200,13 +12214,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/10/"
+    },
+    {
+      "date": "2026-11-12",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "The Godfather Part II",
+          "year": "1974",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:51816",
+          "lid": "2aNq",
+          "slug": "the-godfather-part-ii"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/12/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-12",
+      "title": "The Godfather Part II",
+      "year": "1974",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51816",
+      "lid": "2aNq",
+      "slug": "the-godfather-part-ii"
+    },
     {
       "date": "2026-11-10",
       "title": "Punch-Drunk Love",
@@ -12416,23 +12465,23 @@
       "filmUid": "film:51816",
       "lid": "2aNq",
       "slug": "the-godfather-part-ii"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "The Godfather",
-      "year": "1972",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-godfather/2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51818",
-      "lid": "2aNK",
-      "slug": "the-godfather"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-12",
+      "title": "The Godfather Part II",
+      "year": "1974",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:51816",
+      "lid": "2aNq",
+      "slug": "the-godfather-part-ii"
+    },
     {
       "date": "2026-11-10",
       "title": "Punch-Drunk Love",
@@ -18157,30 +18206,30 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 82,
+      "entries": 83,
       "distinctFilms": 72,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-10",
-      "spanDays": 313,
-      "daysActive": 70,
+      "lastEntry": "2026-11-12",
+      "spanDays": 315,
+      "daysActive": 71,
       "multiFilmDays": 10,
-      "rewatches": 27,
-      "liked": 55,
-      "rated": 82,
+      "rewatches": 28,
+      "liked": 56,
+      "rated": 83,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 73,
+        "older": 74,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 55,
-        "rewatches": 27
+        "rewatches": 28
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 82
+        "notReviewed": 83
       },
-      "averageRating": 4,
+      "averageRating": 4.1,
       "perDay": 0.26,
       "perWeek": 1.8,
       "perMonth": 8,
@@ -18202,8 +18251,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 82,
-          "days": 70
+          "films": 83,
+          "days": 71
         }
       ],
       "perWeekday": [
@@ -18211,7 +18260,7 @@
         7,
         7,
         6,
-        12,
+        13,
         17,
         18
       ],
@@ -18226,7 +18275,7 @@
         8,
         7,
         20,
-        3,
+        4,
         0
       ],
       "monthSeries": [
@@ -18272,7 +18321,7 @@
         },
         {
           "month": "2026-11",
-          "count": 3
+          "count": 4
         }
       ],
       "weekSeries": [
@@ -18550,7 +18599,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 1
+          "count": 2
         },
         {
           "week": 47,
@@ -18626,7 +18675,7 @@
         },
         {
           "rating": 5,
-          "count": 17
+          "count": 18
         }
       ],
       "decades": [
@@ -18651,7 +18700,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 6,
+          "count": 7,
           "averageRating": 4.5
         },
         {
@@ -18757,6 +18806,16 @@
           "averageRating": 5
         },
         {
+          "title": "The Godfather Part II",
+          "year": "1974",
+          "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/1/",
+          "filmUid": "film:51816",
+          "lid": "2aNq",
+          "slug": "the-godfather-part-ii",
+          "views": 2,
+          "averageRating": 5
+        },
+        {
           "title": "The Shining",
           "year": "1980",
           "url": "https://letterboxd.com/kennypickettfan/film/the-shining/1/",
@@ -18826,18 +18885,18 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 82,
+          "n": 83,
           "kind": "latest",
-          "date": "2026-11-10",
-          "title": "Punch-Drunk Love",
-          "year": "2002",
-          "rating": 4,
-          "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+          "date": "2026-11-12",
+          "title": "The Godfather Part II",
+          "year": "1974",
+          "rating": 5,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:47914",
-          "lid": "20E4",
-          "slug": "punch-drunk-love"
+          "filmUid": "film:51816",
+          "lid": "2aNq",
+          "slug": "the-godfather-part-ii"
         }
       ]
     }
@@ -18845,28 +18904,28 @@
   "allTime": {
     "scope": "all",
     "films": 301,
-    "entries": 282,
+    "entries": 283,
     "distinctFilms": 242,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-10",
-    "spanDays": 1191,
-    "daysActive": 162,
+    "lastEntry": "2026-11-12",
+    "spanDays": 1193,
+    "daysActive": 163,
     "multiFilmDays": 24,
-    "rewatches": 46,
-    "liked": 162,
-    "rated": 281,
+    "rewatches": 47,
+    "liked": 163,
+    "rated": 282,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 251,
+      "older": 252,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 236,
-      "rewatches": 46
+      "rewatches": 47
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 282
+      "notReviewed": 283
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18905,8 +18964,8 @@
       },
       {
         "year": 2026,
-        "films": 82,
-        "days": 70
+        "films": 83,
+        "days": 71
       }
     ],
     "perWeekday": [
@@ -18914,7 +18973,7 @@
       20,
       111,
       24,
-      25,
+      26,
       31,
       34
     ],
@@ -18929,7 +18988,7 @@
       103,
       8,
       22,
-      22,
+      23,
       29
     ],
     "monthSeries": [
@@ -19091,7 +19150,7 @@
       },
       {
         "month": "2026-11",
-        "count": 3
+        "count": 4
       }
     ],
     "weekSeries": [],
@@ -19130,7 +19189,7 @@
       },
       {
         "rating": 5,
-        "count": 37
+        "count": 38
       }
     ],
     "decades": [
@@ -19161,7 +19220,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 17,
+        "count": 18,
         "averageRating": 4.5
       },
       {
@@ -19263,6 +19322,16 @@
         "filmUid": "film:51818",
         "lid": "2aNK",
         "slug": "the-godfather",
+        "views": 3,
+        "averageRating": 5
+      },
+      {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/",
+        "filmUid": "film:51816",
+        "lid": "2aNq",
+        "slug": "the-godfather-part-ii",
         "views": 3,
         "averageRating": 5
       },
@@ -19407,16 +19476,6 @@
         "averageRating": 4
       },
       {
-        "title": "The Godfather Part II",
-        "year": "1974",
-        "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/",
-        "filmUid": "film:51816",
-        "lid": "2aNq",
-        "slug": "the-godfather-part-ii",
-        "views": 2,
-        "averageRating": 5
-      },
-      {
         "title": "The Wolf of Wall Street",
         "year": "2013",
         "url": "https://letterboxd.com/kennypickettfan/film/the-wolf-of-wall-street/",
@@ -19544,18 +19603,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 282,
+        "n": 283,
         "kind": "latest",
-        "date": "2026-11-10",
-        "title": "Punch-Drunk Love",
-        "year": "2002",
-        "rating": 4,
-        "url": "https://letterboxd.com/kennypickettfan/film/punch-drunk-love/",
+        "date": "2026-11-12",
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "rating": 5,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:47914",
-        "lid": "20E4",
-        "slug": "punch-drunk-love"
+        "filmUid": "film:51816",
+        "lid": "2aNq",
+        "slug": "the-godfather-part-ii"
       }
     ]
   }
