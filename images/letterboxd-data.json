@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-13T09:13:36.649Z",
+  "generatedAt": "2026-11-14T15:08:08.451Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 120,
-    "daysActive": 103,
+    "films": 121,
+    "daysActive": 104,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 33,
-    "liked": 76
+    "rewatches": 34,
+    "liked": 77
   },
   "monthLabels": [
     {
@@ -9326,10 +9326,24 @@
       "date": "2026-11-14",
       "week": 97,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Whiplash",
+          "year": "2014",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:171384",
+          "lid": "7bQA",
+          "slug": "whiplash-2014"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/14/"
     },
@@ -12235,13 +12249,63 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/12/"
+    },
+    {
+      "date": "2026-11-14",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Whiplash",
+          "year": "2014",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:171384",
+          "lid": "7bQA",
+          "slug": "whiplash-2014"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/14/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-13",
-    "films": []
+    "date": "2026-11-14",
+    "films": [
+      {
+        "date": "2026-11-14",
+        "title": "Whiplash",
+        "year": "2014",
+        "rating": 5,
+        "rewatch": true,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:171384",
+        "lid": "7bQA",
+        "slug": "whiplash-2014"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-14",
+      "title": "Whiplash",
+      "year": "2014",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:171384",
+      "lid": "7bQA",
+      "slug": "whiplash-2014"
+    },
     {
       "date": "2026-11-12",
       "title": "The Godfather Part II",
@@ -12451,23 +12515,23 @@
       "filmUid": "film:51781",
       "lid": "2aHM",
       "slug": "fargo"
-    },
-    {
-      "date": "2026-10-12",
-      "title": "The Godfather Part II",
-      "year": "1974",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51816",
-      "lid": "2aNq",
-      "slug": "the-godfather-part-ii"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-14",
+      "title": "Whiplash",
+      "year": "2014",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:171384",
+      "lid": "7bQA",
+      "slug": "whiplash-2014"
+    },
     {
       "date": "2026-11-12",
       "title": "The Godfather Part II",
@@ -18206,33 +18270,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 83,
+      "entries": 84,
       "distinctFilms": 72,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-12",
-      "spanDays": 315,
-      "daysActive": 71,
+      "lastEntry": "2026-11-14",
+      "spanDays": 317,
+      "daysActive": 72,
       "multiFilmDays": 10,
-      "rewatches": 28,
-      "liked": 56,
-      "rated": 83,
+      "rewatches": 29,
+      "liked": 57,
+      "rated": 84,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 74,
+        "older": 75,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 55,
-        "rewatches": 28
+        "rewatches": 29
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 83
+        "notReviewed": 84
       },
       "averageRating": 4.1,
       "perDay": 0.26,
-      "perWeek": 1.8,
-      "perMonth": 8,
+      "perWeek": 1.9,
+      "perMonth": 8.1,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18251,8 +18315,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 83,
-          "days": 71
+          "films": 84,
+          "days": 72
         }
       ],
       "perWeekday": [
@@ -18262,7 +18326,7 @@
         6,
         13,
         17,
-        18
+        19
       ],
       "perMonthOfYear": [
         10,
@@ -18275,7 +18339,7 @@
         8,
         7,
         20,
-        4,
+        5,
         0
       ],
       "monthSeries": [
@@ -18321,7 +18385,7 @@
         },
         {
           "month": "2026-11",
-          "count": 4
+          "count": 5
         }
       ],
       "weekSeries": [
@@ -18599,7 +18663,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 2
+          "count": 3
         },
         {
           "week": 47,
@@ -18675,7 +18739,7 @@
         },
         {
           "rating": 5,
-          "count": 18
+          "count": 19
         }
       ],
       "decades": [
@@ -18724,7 +18788,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 21,
+          "count": 22,
           "averageRating": 4
         },
         {
@@ -18824,6 +18888,16 @@
           "slug": "the-shining",
           "views": 2,
           "averageRating": 5
+        },
+        {
+          "title": "Whiplash",
+          "year": "2014",
+          "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/1/",
+          "filmUid": "film:171384",
+          "lid": "7bQA",
+          "slug": "whiplash-2014",
+          "views": 2,
+          "averageRating": 5
         }
       ],
       "milestoneStep": 25,
@@ -18885,18 +18959,18 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 83,
+          "n": 84,
           "kind": "latest",
-          "date": "2026-11-12",
-          "title": "The Godfather Part II",
-          "year": "1974",
+          "date": "2026-11-14",
+          "title": "Whiplash",
+          "year": "2014",
           "rating": 5,
-          "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+          "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:51816",
-          "lid": "2aNq",
-          "slug": "the-godfather-part-ii"
+          "filmUid": "film:171384",
+          "lid": "7bQA",
+          "slug": "whiplash-2014"
         }
       ]
     }
@@ -18904,28 +18978,28 @@
   "allTime": {
     "scope": "all",
     "films": 301,
-    "entries": 283,
+    "entries": 284,
     "distinctFilms": 242,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-12",
-    "spanDays": 1193,
-    "daysActive": 163,
+    "lastEntry": "2026-11-14",
+    "spanDays": 1195,
+    "daysActive": 164,
     "multiFilmDays": 24,
-    "rewatches": 47,
-    "liked": 163,
-    "rated": 282,
+    "rewatches": 48,
+    "liked": 164,
+    "rated": 283,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 252,
+      "older": 253,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 236,
-      "rewatches": 47
+      "rewatches": 48
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 283
+      "notReviewed": 284
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -18964,8 +19038,8 @@
       },
       {
         "year": 2026,
-        "films": 83,
-        "days": 71
+        "films": 84,
+        "days": 72
       }
     ],
     "perWeekday": [
@@ -18975,7 +19049,7 @@
       24,
       26,
       31,
-      34
+      35
     ],
     "perMonthOfYear": [
       28,
@@ -18988,7 +19062,7 @@
       103,
       8,
       22,
-      23,
+      24,
       29
     ],
     "monthSeries": [
@@ -19150,7 +19224,7 @@
       },
       {
         "month": "2026-11",
-        "count": 4
+        "count": 5
       }
     ],
     "weekSeries": [],
@@ -19189,7 +19263,7 @@
       },
       {
         "rating": 5,
-        "count": 38
+        "count": 39
       }
     ],
     "decades": [
@@ -19244,7 +19318,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 80,
+        "count": 81,
         "averageRating": 3.5
       },
       {
@@ -19354,6 +19428,16 @@
         "slug": "the-shining",
         "views": 3,
         "averageRating": 5
+      },
+      {
+        "title": "Whiplash",
+        "year": "2014",
+        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/",
+        "filmUid": "film:171384",
+        "lid": "7bQA",
+        "slug": "whiplash-2014",
+        "views": 3,
+        "averageRating": 4.5
       },
       {
         "title": "Arrival",
@@ -19504,16 +19588,6 @@
         "slug": "war-dogs-2016",
         "views": 2,
         "averageRating": 4
-      },
-      {
-        "title": "Whiplash",
-        "year": "2014",
-        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/",
-        "filmUid": "film:171384",
-        "lid": "7bQA",
-        "slug": "whiplash-2014",
-        "views": 2,
-        "averageRating": 4
       }
     ],
     "milestoneStep": 50,
@@ -19603,18 +19677,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 283,
+        "n": 284,
         "kind": "latest",
-        "date": "2026-11-12",
-        "title": "The Godfather Part II",
-        "year": "1974",
+        "date": "2026-11-14",
+        "title": "Whiplash",
+        "year": "2014",
         "rating": 5,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-godfather-part-ii/2/",
+        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:51816",
-        "lid": "2aNq",
-        "slug": "the-godfather-part-ii"
+        "filmUid": "film:171384",
+        "lid": "7bQA",
+        "slug": "whiplash-2014"
       }
     ]
   }

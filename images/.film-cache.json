@@ -72,6 +72,12 @@
       "runtime": 108,
       "averageRating": 4.17,
       "fetchedAt": "2026-10-30T09:05:29.156Z"
+    },
+    "https://letterboxd.com/film/whiplash-2014/": {
+      "poster": "https://a.ltrbxd.com/resized/sm/upload/cl/dn/kr/f1/4C9LHDxMsoYI0S3iMPZdm3Oevwo-0-600-0-900-crop.jpg?v=d13ea36528",
+      "runtime": 107,
+      "averageRating": 4.42,
+      "fetchedAt": "2026-11-14T15:08:08.617Z"
     }
   }
 }
