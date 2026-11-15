@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-14T15:08:08.451Z",
+  "generatedAt": "2026-11-15T15:41:28.207Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12273,23 +12273,8 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-14",
-    "films": [
-      {
-        "date": "2026-11-14",
-        "title": "Whiplash",
-        "year": "2014",
-        "rating": 5,
-        "rewatch": true,
-        "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:171384",
-        "lid": "7bQA",
-        "slug": "whiplash-2014"
-      }
-    ]
+    "date": "2026-11-15",
+    "films": []
   },
   "recent": [
     {
