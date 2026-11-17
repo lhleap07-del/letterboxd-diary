@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-16T18:37:18.018Z",
+  "generatedAt": "2026-11-17T17:39:01.331Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12273,35 +12273,35 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "films": [
       {
-        "date": "2023-11-16",
-        "title": "Happy Gilmore",
-        "year": "1996",
+        "date": "2023-11-17",
+        "title": "The Social Network",
+        "year": "2010",
+        "rating": 4.5,
+        "rewatch": false,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-social-network/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:26711",
+        "lid": "17ue",
+        "slug": "the-social-network"
+      },
+      {
+        "date": "2023-11-17",
+        "title": "The Grand Budapest Hotel",
+        "year": "2014",
         "rating": 4,
         "rewatch": false,
         "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/happy-gilmore/",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-grand-budapest-hotel/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:46987",
-        "lid": "1Yey",
-        "slug": "happy-gilmore"
-      },
-      {
-        "date": "2023-11-16",
-        "title": "Air",
-        "year": "2023",
-        "rating": 2.5,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kennypickettfan/film/air-2023/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:868491",
-        "lid": "Arlc",
-        "slug": "air-2023"
+        "filmUid": "film:95113",
+        "lid": "3ZqO",
+        "slug": "the-grand-budapest-hotel"
       }
     ]
   },
