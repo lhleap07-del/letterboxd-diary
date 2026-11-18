@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-17T17:39:01.331Z",
+  "generatedAt": "2026-11-18T17:17:38.798Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 121,
-    "daysActive": 104,
+    "films": 122,
+    "daysActive": 105,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 34,
-    "liked": 77
+    "liked": 78
   },
   "monthLabels": [
     {
@@ -9373,10 +9373,24 @@
       "date": "2026-11-17",
       "week": 98,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Nightcrawler",
+          "year": "2014",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:169907",
+          "lid": "780m",
+          "slug": "nightcrawler"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/17/"
     },
@@ -12270,42 +12284,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/14/"
+    },
+    {
+      "date": "2026-11-17",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "Nightcrawler",
+          "year": "2014",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:169907",
+          "lid": "780m",
+          "slug": "nightcrawler"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/17/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-17",
-    "films": [
-      {
-        "date": "2023-11-17",
-        "title": "The Social Network",
-        "year": "2010",
-        "rating": 4.5,
-        "rewatch": false,
-        "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-social-network/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:26711",
-        "lid": "17ue",
-        "slug": "the-social-network"
-      },
-      {
-        "date": "2023-11-17",
-        "title": "The Grand Budapest Hotel",
-        "year": "2014",
-        "rating": 4,
-        "rewatch": false,
-        "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-grand-budapest-hotel/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:95113",
-        "lid": "3ZqO",
-        "slug": "the-grand-budapest-hotel"
-      }
-    ]
+    "date": "2026-11-18",
+    "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-17",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:169907",
+      "lid": "780m",
+      "slug": "nightcrawler"
+    },
     {
       "date": "2026-11-14",
       "title": "Whiplash",
@@ -12515,23 +12535,23 @@
       "filmUid": "film:150541",
       "lid": "6jCO",
       "slug": "minions"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "Fargo",
-      "year": "1996",
-      "rating": 4,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/fargo/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51781",
-      "lid": "2aHM",
-      "slug": "fargo"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-17",
+      "title": "Nightcrawler",
+      "year": "2014",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:169907",
+      "lid": "780m",
+      "slug": "nightcrawler"
+    },
     {
       "date": "2026-11-14",
       "title": "Whiplash",
@@ -18284,31 +18304,31 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 84,
-      "distinctFilms": 72,
+      "entries": 85,
+      "distinctFilms": 73,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-14",
-      "spanDays": 317,
-      "daysActive": 72,
+      "lastEntry": "2026-11-17",
+      "spanDays": 320,
+      "daysActive": 73,
       "multiFilmDays": 10,
       "rewatches": 29,
-      "liked": 57,
-      "rated": 84,
+      "liked": 58,
+      "rated": 85,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 75,
+        "older": 76,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 55,
+        "firstWatches": 56,
         "rewatches": 29
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 84
+        "notReviewed": 85
       },
       "averageRating": 4.1,
-      "perDay": 0.26,
+      "perDay": 0.27,
       "perWeek": 1.9,
       "perMonth": 8.1,
       "streak": {
@@ -18329,14 +18349,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 84,
-          "days": 72
+          "films": 85,
+          "days": 73
         }
       ],
       "perWeekday": [
         15,
         7,
-        7,
+        8,
         6,
         13,
         17,
@@ -18353,7 +18373,7 @@
         8,
         7,
         20,
-        5,
+        6,
         0
       ],
       "monthSeries": [
@@ -18399,7 +18419,7 @@
         },
         {
           "month": "2026-11",
-          "count": 5
+          "count": 6
         }
       ],
       "weekSeries": [
@@ -18683,7 +18703,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 0
+          "count": 1
         },
         {
           "week": 48,
@@ -18749,7 +18769,7 @@
         },
         {
           "rating": 4.5,
-          "count": 22
+          "count": 23
         },
         {
           "rating": 5,
@@ -18802,7 +18822,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 22,
+          "count": 23,
           "averageRating": 4
         },
         {
@@ -18973,47 +18993,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 84,
+          "n": 85,
           "kind": "latest",
-          "date": "2026-11-14",
-          "title": "Whiplash",
+          "date": "2026-11-17",
+          "title": "Nightcrawler",
           "year": "2014",
-          "rating": 5,
-          "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:171384",
-          "lid": "7bQA",
-          "slug": "whiplash-2014"
+          "filmUid": "film:169907",
+          "lid": "780m",
+          "slug": "nightcrawler"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 301,
-    "entries": 284,
-    "distinctFilms": 242,
+    "films": 302,
+    "entries": 285,
+    "distinctFilms": 243,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-14",
-    "spanDays": 1195,
-    "daysActive": 164,
+    "lastEntry": "2026-11-17",
+    "spanDays": 1198,
+    "daysActive": 165,
     "multiFilmDays": 24,
     "rewatches": 48,
-    "liked": 164,
-    "rated": 283,
+    "liked": 165,
+    "rated": 284,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 253,
+      "older": 254,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 236,
+      "firstWatches": 237,
       "rewatches": 48
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 284
+      "notReviewed": 285
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -19052,14 +19072,14 @@
       },
       {
         "year": 2026,
-        "films": 84,
-        "days": 72
+        "films": 85,
+        "days": 73
       }
     ],
     "perWeekday": [
       37,
       20,
-      111,
+      112,
       24,
       26,
       31,
@@ -19076,7 +19096,7 @@
       103,
       8,
       22,
-      24,
+      25,
       29
     ],
     "monthSeries": [
@@ -19238,7 +19258,7 @@
       },
       {
         "month": "2026-11",
-        "count": 5
+        "count": 6
       }
     ],
     "weekSeries": [],
@@ -19273,7 +19293,7 @@
       },
       {
         "rating": 4.5,
-        "count": 61
+        "count": 62
       },
       {
         "rating": 5,
@@ -19332,7 +19352,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 81,
+        "count": 82,
         "averageRating": 3.5
       },
       {
@@ -19691,18 +19711,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 284,
+        "n": 285,
         "kind": "latest",
-        "date": "2026-11-14",
-        "title": "Whiplash",
+        "date": "2026-11-17",
+        "title": "Nightcrawler",
         "year": "2014",
-        "rating": 5,
-        "url": "https://letterboxd.com/kennypickettfan/film/whiplash-2014/2/",
+        "rating": 4.5,
+        "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:171384",
-        "lid": "7bQA",
-        "slug": "whiplash-2014"
+        "filmUid": "film:169907",
+        "lid": "780m",
+        "slug": "nightcrawler"
       }
     ]
   }
