@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-18T17:17:38.798Z",
+  "generatedAt": "2026-11-19T17:24:36.356Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 122,
-    "daysActive": 105,
+    "films": 123,
+    "daysActive": 106,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 34,
@@ -9398,10 +9398,24 @@
       "date": "2026-11-18",
       "week": 98,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Master",
+          "year": "2012",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:52512",
+          "lid": "2cBG",
+          "slug": "the-master-2012"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/18/"
     },
@@ -12305,13 +12319,63 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/17/"
+    },
+    {
+      "date": "2026-11-18",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Master",
+          "year": "2012",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:52512",
+          "lid": "2cBG",
+          "slug": "the-master-2012"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/18/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-18",
-    "films": []
+    "date": "2026-11-19",
+    "films": [
+      {
+        "date": "2023-11-19",
+        "title": "The Witch",
+        "year": "2015",
+        "rating": 2,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-witch-2015/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:237177",
+        "lid": "9X0m",
+        "slug": "the-witch-2015"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-18",
+      "title": "The Master",
+      "year": "2012",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:52512",
+      "lid": "2cBG",
+      "slug": "the-master-2012"
+    },
     {
       "date": "2026-11-17",
       "title": "Nightcrawler",
@@ -12521,23 +12585,23 @@
       "filmUid": "film:51867",
       "lid": "2aVE",
       "slug": "a-clockwork-orange"
-    },
-    {
-      "date": "2026-10-15",
-      "title": "Minions",
-      "year": "2015",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/minions/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:150541",
-      "lid": "6jCO",
-      "slug": "minions"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-18",
+      "title": "The Master",
+      "year": "2012",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:52512",
+      "lid": "2cBG",
+      "slug": "the-master-2012"
+    },
     {
       "date": "2026-11-17",
       "title": "Nightcrawler",
@@ -18304,33 +18368,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 85,
-      "distinctFilms": 73,
+      "entries": 86,
+      "distinctFilms": 74,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-17",
-      "spanDays": 320,
-      "daysActive": 73,
+      "lastEntry": "2026-11-18",
+      "spanDays": 321,
+      "daysActive": 74,
       "multiFilmDays": 10,
       "rewatches": 29,
       "liked": 58,
-      "rated": 85,
+      "rated": 86,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 76,
+        "older": 77,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 56,
+        "firstWatches": 57,
         "rewatches": 29
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 85
+        "notReviewed": 86
       },
       "averageRating": 4.1,
       "perDay": 0.27,
       "perWeek": 1.9,
-      "perMonth": 8.1,
+      "perMonth": 8.2,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18349,15 +18413,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 85,
-          "days": 73
+          "films": 86,
+          "days": 74
         }
       ],
       "perWeekday": [
         15,
         7,
         8,
-        6,
+        7,
         13,
         17,
         19
@@ -18373,7 +18437,7 @@
         8,
         7,
         20,
-        6,
+        7,
         0
       ],
       "monthSeries": [
@@ -18419,7 +18483,7 @@
         },
         {
           "month": "2026-11",
-          "count": 6
+          "count": 7
         }
       ],
       "weekSeries": [
@@ -18703,7 +18767,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 1
+          "count": 2
         },
         {
           "week": 48,
@@ -18761,7 +18825,7 @@
         },
         {
           "rating": 3.5,
-          "count": 10
+          "count": 11
         },
         {
           "rating": 4,
@@ -18822,7 +18886,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 23,
+          "count": 24,
           "averageRating": 4
         },
         {
@@ -18993,52 +19057,52 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 85,
+          "n": 86,
           "kind": "latest",
-          "date": "2026-11-17",
-          "title": "Nightcrawler",
-          "year": "2014",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+          "date": "2026-11-18",
+          "title": "The Master",
+          "year": "2012",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:169907",
-          "lid": "780m",
-          "slug": "nightcrawler"
+          "filmUid": "film:52512",
+          "lid": "2cBG",
+          "slug": "the-master-2012"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 302,
-    "entries": 285,
-    "distinctFilms": 243,
+    "films": 303,
+    "entries": 286,
+    "distinctFilms": 244,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-17",
-    "spanDays": 1198,
-    "daysActive": 165,
+    "lastEntry": "2026-11-18",
+    "spanDays": 1199,
+    "daysActive": 166,
     "multiFilmDays": 24,
     "rewatches": 48,
     "liked": 165,
-    "rated": 284,
+    "rated": 285,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 254,
+      "older": 255,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 237,
+      "firstWatches": 238,
       "rewatches": 48
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 285
+      "notReviewed": 286
     },
     "averageRating": 3.8,
     "perDay": 0.24,
     "perWeek": 1.7,
-    "perMonth": 7.2,
+    "perMonth": 7.3,
     "streak": {
       "length": 7,
       "startDate": "2026-10-07",
@@ -19072,15 +19136,15 @@
       },
       {
         "year": 2026,
-        "films": 85,
-        "days": 73
+        "films": 86,
+        "days": 74
       }
     ],
     "perWeekday": [
       37,
       20,
       112,
-      24,
+      25,
       26,
       31,
       35
@@ -19096,7 +19160,7 @@
       103,
       8,
       22,
-      25,
+      26,
       29
     ],
     "monthSeries": [
@@ -19258,7 +19322,7 @@
       },
       {
         "month": "2026-11",
-        "count": 6
+        "count": 7
       }
     ],
     "weekSeries": [],
@@ -19285,7 +19349,7 @@
       },
       {
         "rating": 3.5,
-        "count": 43
+        "count": 44
       },
       {
         "rating": 4,
@@ -19352,7 +19416,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 82,
+        "count": 83,
         "averageRating": 3.5
       },
       {
@@ -19711,18 +19775,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 285,
+        "n": 286,
         "kind": "latest",
-        "date": "2026-11-17",
-        "title": "Nightcrawler",
-        "year": "2014",
-        "rating": 4.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/nightcrawler/",
+        "date": "2026-11-18",
+        "title": "The Master",
+        "year": "2012",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:169907",
-        "lid": "780m",
-        "slug": "nightcrawler"
+        "filmUid": "film:52512",
+        "lid": "2cBG",
+        "slug": "the-master-2012"
       }
     ]
   }
