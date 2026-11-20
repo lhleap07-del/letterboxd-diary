@@ -138,15 +138,15 @@
         <text x="205" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">24</text>
         <rect x="197" y="30" width="16" height="40" rx="2" fill="#26a641"/>
         <text x="205" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2010s</text>
-        <text x="231" y="30" font-size="8" fill="#f0f6fc" text-anchor="middle">22</text>
-        <rect x="223" y="33" width="16" height="37" rx="2" fill="#26a641"/>
+        <text x="231" y="29" font-size="8" fill="#f0f6fc" text-anchor="middle">23</text>
+        <rect x="223" y="32" width="16" height="38" rx="2" fill="#26a641"/>
         <text x="231" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2020s</text>
     </g>
     </g>
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">86 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">87 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution</text>
@@ -177,17 +177,17 @@
         <text x="214" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">23</text>
         <rect x="207" y="30" width="14" height="40" rx="2" fill="#39d353"/>
         <text x="214" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">4.5</text>
-        <text x="238" y="34" font-size="8" fill="#f0f6fc" text-anchor="middle">19</text>
-        <rect x="231" y="37" width="14" height="33" rx="2" fill="#39d353"/>
+        <text x="238" y="32" font-size="8" fill="#f0f6fc" text-anchor="middle">20</text>
+        <rect x="231" y="35" width="14" height="35" rx="2" fill="#39d353"/>
         <text x="238" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#30363d" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 4.1★ · 86 rated · ↻ 29 · ♥ 58</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 4.1★ · 87 rated · ↻ 30 · ♥ 59</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">74 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">75 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -204,8 +204,8 @@
         <text x="99" y="60" font-size="9" fill="#f0f6fc" text-anchor="middle">7</text>
         <rect x="92" y="63" width="14" height="17" rx="2" fill="#26a641"/>
         <text x="99" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">W</text>
-        <text x="123" y="46" font-size="9" fill="#f0f6fc" text-anchor="middle">13</text>
-        <rect x="116" y="49" width="14" height="31" rx="2" fill="#26a641"/>
+        <text x="123" y="44" font-size="9" fill="#f0f6fc" text-anchor="middle">14</text>
+        <rect x="116" y="47" width="14" height="33" rx="2" fill="#26a641"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
         <text x="147" y="37" font-size="9" fill="#f0f6fc" text-anchor="middle">17</text>
         <rect x="140" y="40" width="14" height="40" rx="2" fill="#26a641"/>
@@ -1289,7 +1289,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="782" y="68" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:526ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/19/">
+        <rect class="cell"
+          x="782"
+          y="68"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#006d32" style="animation-delay:526ms"
+        />
+        <g class="tooltip-group" transform="translate(699, 4)">
+          <rect x="0" y="0" width="240" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
+            <tspan x="10" dy="22" font-weight="600">Thu, 19. Nov 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• ↻ Dune: Part Two (2024) - 5★ ♥</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="799" y="68" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:537ms"/>
     <rect class="cell" x="816" y="68" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:548ms"/>
     <rect class="cell" x="833" y="68" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:559ms"/>

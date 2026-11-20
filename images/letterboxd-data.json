@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-19T17:24:36.356Z",
+  "generatedAt": "2026-11-20T16:59:44.917Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 123,
-    "daysActive": 106,
+    "films": 124,
+    "daysActive": 107,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 34,
-    "liked": 78
+    "rewatches": 35,
+    "liked": 79
   },
   "monthLabels": [
     {
@@ -9423,10 +9423,24 @@
       "date": "2026-11-19",
       "week": 98,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Dune: Part Two",
+          "year": "2024",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:617443",
+          "lid": "pUfA",
+          "slug": "dune-part-two"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/19/"
     },
@@ -12340,28 +12354,77 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/18/"
+    },
+    {
+      "date": "2026-11-19",
+      "count": 1,
+      "ratingAvg": 5,
+      "films": [
+        {
+          "title": "Dune: Part Two",
+          "year": "2024",
+          "rating": 5,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:617443",
+          "lid": "pUfA",
+          "slug": "dune-part-two"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/19/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "films": [
       {
-        "date": "2023-11-19",
-        "title": "The Witch",
-        "year": "2015",
-        "rating": 2,
+        "date": "2023-11-20",
+        "title": "Parasite",
+        "year": "2019",
+        "rating": 4.5,
         "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-witch-2015/",
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/parasite-2019/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:237177",
-        "lid": "9X0m",
-        "slug": "the-witch-2015"
+        "filmUid": "film:426406",
+        "lid": "hTha",
+        "slug": "parasite-2019"
+      },
+      {
+        "date": "2023-11-20",
+        "title": "Fight Club",
+        "year": "1999",
+        "rating": 3,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kennypickettfan/film/fight-club/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51568",
+        "lid": "2a9q",
+        "slug": "fight-club"
       }
     ]
   },
   "recent": [
+    {
+      "date": "2026-11-19",
+      "title": "Dune: Part Two",
+      "year": "2024",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:617443",
+      "lid": "pUfA",
+      "slug": "dune-part-two"
+    },
     {
       "date": "2026-11-18",
       "title": "The Master",
@@ -12571,23 +12634,23 @@
       "filmUid": "film:30264",
       "lid": "1gJi",
       "slug": "percy-jackson-the-olympians-the-lightning-thief"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "A Clockwork Orange",
-      "year": "1971",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/a-clockwork-orange/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51867",
-      "lid": "2aVE",
-      "slug": "a-clockwork-orange"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-19",
+      "title": "Dune: Part Two",
+      "year": "2024",
+      "rating": 5,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:617443",
+      "lid": "pUfA",
+      "slug": "dune-part-two"
+    },
     {
       "date": "2026-11-18",
       "title": "The Master",
@@ -18368,28 +18431,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 86,
+      "entries": 87,
       "distinctFilms": 74,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-18",
-      "spanDays": 321,
-      "daysActive": 74,
+      "lastEntry": "2026-11-19",
+      "spanDays": 322,
+      "daysActive": 75,
       "multiFilmDays": 10,
-      "rewatches": 29,
-      "liked": 58,
-      "rated": 86,
+      "rewatches": 30,
+      "liked": 59,
+      "rated": 87,
       "releaseBreakdown": {
         "sameYear": 9,
-        "older": 77,
+        "older": 78,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 57,
-        "rewatches": 29
+        "rewatches": 30
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 86
+        "notReviewed": 87
       },
       "averageRating": 4.1,
       "perDay": 0.27,
@@ -18413,8 +18476,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 86,
-          "days": 74
+          "films": 87,
+          "days": 75
         }
       ],
       "perWeekday": [
@@ -18422,7 +18485,7 @@
         7,
         8,
         7,
-        13,
+        14,
         17,
         19
       ],
@@ -18437,7 +18500,7 @@
         8,
         7,
         20,
-        7,
+        8,
         0
       ],
       "monthSeries": [
@@ -18483,7 +18546,7 @@
         },
         {
           "month": "2026-11",
-          "count": 7
+          "count": 8
         }
       ],
       "weekSeries": [
@@ -18767,7 +18830,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 2
+          "count": 3
         },
         {
           "week": 48,
@@ -18837,7 +18900,7 @@
         },
         {
           "rating": 5,
-          "count": 19
+          "count": 20
         }
       ],
       "decades": [
@@ -18892,7 +18955,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 22,
+          "count": 23,
           "averageRating": 4
         }
       ],
@@ -18904,7 +18967,7 @@
           "filmUid": "film:617443",
           "lid": "pUfA",
           "slug": "dune-part-two",
-          "views": 3,
+          "views": 4,
           "averageRating": 5
         },
         {
@@ -19057,18 +19120,18 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 86,
+          "n": 87,
           "kind": "latest",
-          "date": "2026-11-18",
-          "title": "The Master",
-          "year": "2012",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+          "date": "2026-11-19",
+          "title": "Dune: Part Two",
+          "year": "2024",
+          "rating": 5,
+          "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:52512",
-          "lid": "2cBG",
-          "slug": "the-master-2012"
+          "filmUid": "film:617443",
+          "lid": "pUfA",
+          "slug": "dune-part-two"
         }
       ]
     }
@@ -19076,28 +19139,28 @@
   "allTime": {
     "scope": "all",
     "films": 303,
-    "entries": 286,
+    "entries": 287,
     "distinctFilms": 244,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-18",
-    "spanDays": 1199,
-    "daysActive": 166,
+    "lastEntry": "2026-11-19",
+    "spanDays": 1200,
+    "daysActive": 167,
     "multiFilmDays": 24,
-    "rewatches": 48,
-    "liked": 165,
-    "rated": 285,
+    "rewatches": 49,
+    "liked": 166,
+    "rated": 286,
     "releaseBreakdown": {
       "sameYear": 31,
-      "older": 255,
+      "older": 256,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 238,
-      "rewatches": 48
+      "rewatches": 49
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 286
+      "notReviewed": 287
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -19136,8 +19199,8 @@
       },
       {
         "year": 2026,
-        "films": 86,
-        "days": 74
+        "films": 87,
+        "days": 75
       }
     ],
     "perWeekday": [
@@ -19145,7 +19208,7 @@
       20,
       112,
       25,
-      26,
+      27,
       31,
       35
     ],
@@ -19160,7 +19223,7 @@
       103,
       8,
       22,
-      26,
+      27,
       29
     ],
     "monthSeries": [
@@ -19322,7 +19385,7 @@
       },
       {
         "month": "2026-11",
-        "count": 7
+        "count": 8
       }
     ],
     "weekSeries": [],
@@ -19361,7 +19424,7 @@
       },
       {
         "rating": 5,
-        "count": 39
+        "count": 40
       }
     ],
     "decades": [
@@ -19422,7 +19485,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 67,
+        "count": 68,
         "averageRating": 3.5
       }
     ],
@@ -19434,7 +19497,7 @@
         "filmUid": "film:617443",
         "lid": "pUfA",
         "slug": "dune-part-two",
-        "views": 7,
+        "views": 8,
         "averageRating": 5
       },
       {
@@ -19775,18 +19838,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 286,
+        "n": 287,
         "kind": "latest",
-        "date": "2026-11-18",
-        "title": "The Master",
-        "year": "2012",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-master-2012/",
+        "date": "2026-11-19",
+        "title": "Dune: Part Two",
+        "year": "2024",
+        "rating": 5,
+        "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:52512",
-        "lid": "2cBG",
-        "slug": "the-master-2012"
+        "filmUid": "film:617443",
+        "lid": "pUfA",
+        "slug": "dune-part-two"
       }
     ]
   }
