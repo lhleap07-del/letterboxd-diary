@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-20T16:59:44.917Z",
+  "generatedAt": "2026-11-21T16:11:48.583Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 124,
-    "daysActive": 107,
+    "films": 125,
+    "daysActive": 108,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 35,
-    "liked": 79
+    "liked": 80
   },
   "monthLabels": [
     {
@@ -9448,10 +9448,24 @@
       "date": "2026-11-20",
       "week": 98,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "I Play Rocky",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1170228",
+          "lid": "N6is",
+          "slug": "i-play-rocky"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/20/"
     },
@@ -12375,42 +12389,63 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/19/"
+    },
+    {
+      "date": "2026-11-20",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "I Play Rocky",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1170228",
+          "lid": "N6is",
+          "slug": "i-play-rocky"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/20/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "films": [
       {
-        "date": "2023-11-20",
-        "title": "Parasite",
-        "year": "2019",
-        "rating": 4.5,
+        "date": "2023-11-21",
+        "title": "The Banshees of Inisherin",
+        "year": "2022",
+        "rating": 4,
         "rewatch": false,
         "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/parasite-2019/",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-banshees-of-inisherin/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:426406",
-        "lid": "hTha",
-        "slug": "parasite-2019"
-      },
-      {
-        "date": "2023-11-20",
-        "title": "Fight Club",
-        "year": "1999",
-        "rating": 3,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kennypickettfan/film/fight-club/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:51568",
-        "lid": "2a9q",
-        "slug": "fight-club"
+        "filmUid": "film:598882",
+        "lid": "p7XS",
+        "slug": "the-banshees-of-inisherin"
       }
     ]
   },
   "recent": [
+    {
+      "date": "2026-11-20",
+      "title": "I Play Rocky",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1170228",
+      "lid": "N6is",
+      "slug": "i-play-rocky"
+    },
     {
       "date": "2026-11-19",
       "title": "Dune: Part Two",
@@ -12620,23 +12655,23 @@
       "filmUid": "film:49811",
       "lid": "25A2",
       "slug": "barry-lyndon"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Percy Jackson & the Olympians: The Lightning Thief",
-      "year": "2010",
-      "rating": 4,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/percy-jackson-the-olympians-the-lightning-thief/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:30264",
-      "lid": "1gJi",
-      "slug": "percy-jackson-the-olympians-the-lightning-thief"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-20",
+      "title": "I Play Rocky",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1170228",
+      "lid": "N6is",
+      "slug": "i-play-rocky"
+    },
     {
       "date": "2026-11-19",
       "title": "Dune: Part Two",
@@ -18431,33 +18466,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 87,
-      "distinctFilms": 74,
+      "entries": 88,
+      "distinctFilms": 75,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-19",
-      "spanDays": 322,
-      "daysActive": 75,
+      "lastEntry": "2026-11-20",
+      "spanDays": 323,
+      "daysActive": 76,
       "multiFilmDays": 10,
       "rewatches": 30,
-      "liked": 59,
-      "rated": 87,
+      "liked": 60,
+      "rated": 88,
       "releaseBreakdown": {
-        "sameYear": 9,
+        "sameYear": 10,
         "older": 78,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 57,
+        "firstWatches": 58,
         "rewatches": 30
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 87
+        "notReviewed": 88
       },
       "averageRating": 4.1,
       "perDay": 0.27,
       "perWeek": 1.9,
-      "perMonth": 8.2,
+      "perMonth": 8.3,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18476,8 +18511,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 87,
-          "days": 75
+          "films": 88,
+          "days": 76
         }
       ],
       "perWeekday": [
@@ -18486,7 +18521,7 @@
         8,
         7,
         14,
-        17,
+        18,
         19
       ],
       "perMonthOfYear": [
@@ -18500,7 +18535,7 @@
         8,
         7,
         20,
-        8,
+        9,
         0
       ],
       "monthSeries": [
@@ -18546,7 +18581,7 @@
         },
         {
           "month": "2026-11",
-          "count": 8
+          "count": 9
         }
       ],
       "weekSeries": [
@@ -18830,7 +18865,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 3
+          "count": 4
         },
         {
           "week": 48,
@@ -18892,7 +18927,7 @@
         },
         {
           "rating": 4,
-          "count": 20
+          "count": 21
         },
         {
           "rating": 4.5,
@@ -18955,7 +18990,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 23,
+          "count": 24,
           "averageRating": 4
         }
       ],
@@ -19120,47 +19155,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 87,
+          "n": 88,
           "kind": "latest",
-          "date": "2026-11-19",
-          "title": "Dune: Part Two",
-          "year": "2024",
-          "rating": 5,
-          "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+          "date": "2026-11-20",
+          "title": "I Play Rocky",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:617443",
-          "lid": "pUfA",
-          "slug": "dune-part-two"
+          "filmUid": "film:1170228",
+          "lid": "N6is",
+          "slug": "i-play-rocky"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 303,
-    "entries": 287,
-    "distinctFilms": 244,
+    "films": 304,
+    "entries": 288,
+    "distinctFilms": 245,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-19",
-    "spanDays": 1200,
-    "daysActive": 167,
+    "lastEntry": "2026-11-20",
+    "spanDays": 1201,
+    "daysActive": 168,
     "multiFilmDays": 24,
     "rewatches": 49,
-    "liked": 166,
-    "rated": 286,
+    "liked": 167,
+    "rated": 287,
     "releaseBreakdown": {
-      "sameYear": 31,
+      "sameYear": 32,
       "older": 256,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 238,
+      "firstWatches": 239,
       "rewatches": 49
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 287
+      "notReviewed": 288
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -19199,8 +19234,8 @@
       },
       {
         "year": 2026,
-        "films": 87,
-        "days": 75
+        "films": 88,
+        "days": 76
       }
     ],
     "perWeekday": [
@@ -19209,7 +19244,7 @@
       112,
       25,
       27,
-      31,
+      32,
       35
     ],
     "perMonthOfYear": [
@@ -19223,7 +19258,7 @@
       103,
       8,
       22,
-      27,
+      28,
       29
     ],
     "monthSeries": [
@@ -19385,7 +19420,7 @@
       },
       {
         "month": "2026-11",
-        "count": 8
+        "count": 9
       }
     ],
     "weekSeries": [],
@@ -19416,7 +19451,7 @@
       },
       {
         "rating": 4,
-        "count": 76
+        "count": 77
       },
       {
         "rating": 4.5,
@@ -19485,7 +19520,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 68,
+        "count": 69,
         "averageRating": 3.5
       }
     ],
@@ -19838,18 +19873,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 287,
+        "n": 288,
         "kind": "latest",
-        "date": "2026-11-19",
-        "title": "Dune: Part Two",
-        "year": "2024",
-        "rating": 5,
-        "url": "https://letterboxd.com/kennypickettfan/film/dune-part-two/7/",
+        "date": "2026-11-20",
+        "title": "I Play Rocky",
+        "year": "2026",
+        "rating": 4,
+        "url": "https://letterboxd.com/kennypickettfan/film/i-play-rocky/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:617443",
-        "lid": "pUfA",
-        "slug": "dune-part-two"
+        "filmUid": "film:1170228",
+        "lid": "N6is",
+        "slug": "i-play-rocky"
       }
     ]
   }
