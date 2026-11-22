@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-21T16:11:48.583Z",
+  "generatedAt": "2026-11-22T16:19:15.176Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12413,21 +12413,35 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-21",
+    "date": "2026-11-22",
     "films": [
       {
-        "date": "2023-11-21",
-        "title": "The Banshees of Inisherin",
-        "year": "2022",
+        "date": "2023-11-22",
+        "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+        "year": "2023",
         "rating": 4,
         "rewatch": false,
         "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-banshees-of-inisherin/",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-the-ballad-of-songbirds-snakes/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:598882",
-        "lid": "p7XS",
-        "slug": "the-banshees-of-inisherin"
+        "filmUid": "film:619510",
+        "lid": "pZCY",
+        "slug": "the-hunger-games-the-ballad-of-songbirds-snakes"
+      },
+      {
+        "date": "2023-11-22",
+        "title": "The Irishman",
+        "year": "2019",
+        "rating": 4.5,
+        "rewatch": false,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-irishman-2019/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:333203",
+        "lid": "dYOq",
+        "slug": "the-irishman-2019"
       }
     ]
   },
