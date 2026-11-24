@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-23T20:17:13.620Z",
+  "generatedAt": "2026-11-24T19:32:00.980Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 126,
-    "daysActive": 109,
+    "films": 127,
+    "daysActive": 110,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 36,
-    "liked": 81
+    "liked": 82
   },
   "monthLabels": [
     {
@@ -9509,10 +9509,24 @@
       "date": "2026-11-23",
       "week": 99,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "The Graduate",
+          "year": "1967",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:27183",
+          "lid": "18Im",
+          "slug": "the-graduate"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/23/"
     },
@@ -12445,13 +12459,91 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/22/"
+    },
+    {
+      "date": "2026-11-23",
+      "count": 1,
+      "ratingAvg": 4.5,
+      "films": [
+        {
+          "title": "The Graduate",
+          "year": "1967",
+          "rating": 4.5,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:27183",
+          "lid": "18Im",
+          "slug": "the-graduate"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/23/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-23",
-    "films": []
+    "date": "2026-11-24",
+    "films": [
+      {
+        "date": "2025-11-24",
+        "title": "One Battle After Another",
+        "year": "2025",
+        "rating": 4,
+        "rewatch": false,
+        "liked": false,
+        "url": "https://letterboxd.com/kennypickettfan/film/one-battle-after-another/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:951277",
+        "lid": "DUHM",
+        "slug": "one-battle-after-another"
+      },
+      {
+        "date": "2023-11-24",
+        "title": "Rear Window",
+        "year": "1954",
+        "rating": 4,
+        "rewatch": false,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/rear-window/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51552",
+        "lid": "2a6Q",
+        "slug": "rear-window"
+      },
+      {
+        "date": "2023-11-24",
+        "title": "GoodFellas",
+        "year": "1990",
+        "rating": 4,
+        "rewatch": false,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/goodfellas/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:51383",
+        "lid": "29FA",
+        "slug": "goodfellas"
+      }
+    ]
   },
   "recent": [
+    {
+      "date": "2026-11-23",
+      "title": "The Graduate",
+      "year": "1967",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:27183",
+      "lid": "18Im",
+      "slug": "the-graduate"
+    },
     {
       "date": "2026-11-22",
       "title": "The Hunger Games",
@@ -12661,23 +12753,23 @@
       "filmUid": "film:45842",
       "lid": "1VfS",
       "slug": "after-hours"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Eyes Wide Shut",
-      "year": "1999",
-      "rating": 5,
-      "rewatch": true,
-      "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/eyes-wide-shut/2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:51717",
-      "lid": "2axs",
-      "slug": "eyes-wide-shut"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-23",
+      "title": "The Graduate",
+      "year": "1967",
+      "rating": 4.5,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:27183",
+      "lid": "18Im",
+      "slug": "the-graduate"
+    },
     {
       "date": "2026-11-22",
       "title": "The Hunger Games",
@@ -18500,33 +18592,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 89,
-      "distinctFilms": 76,
+      "entries": 90,
+      "distinctFilms": 77,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-22",
-      "spanDays": 325,
-      "daysActive": 77,
+      "lastEntry": "2026-11-23",
+      "spanDays": 326,
+      "daysActive": 78,
       "multiFilmDays": 10,
       "rewatches": 31,
-      "liked": 61,
-      "rated": 89,
+      "liked": 62,
+      "rated": 90,
       "releaseBreakdown": {
         "sameYear": 10,
-        "older": 79,
+        "older": 80,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 58,
+        "firstWatches": 59,
         "rewatches": 31
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 89
+        "notReviewed": 90
       },
       "averageRating": 4.1,
-      "perDay": 0.27,
+      "perDay": 0.28,
       "perWeek": 1.9,
-      "perMonth": 8.3,
+      "perMonth": 8.4,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18545,13 +18637,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 89,
-          "days": 77
+          "films": 90,
+          "days": 78
         }
       ],
       "perWeekday": [
         16,
-        7,
+        8,
         8,
         7,
         14,
@@ -18569,7 +18661,7 @@
         8,
         7,
         20,
-        10,
+        11,
         0
       ],
       "monthSeries": [
@@ -18615,7 +18707,7 @@
         },
         {
           "month": "2026-11",
-          "count": 10
+          "count": 11
         }
       ],
       "weekSeries": [
@@ -18905,7 +18997,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 0
+          "count": 1
         },
         {
           "week": 49,
@@ -18965,7 +19057,7 @@
         },
         {
           "rating": 4.5,
-          "count": 23
+          "count": 24
         },
         {
           "rating": 5,
@@ -18988,7 +19080,7 @@
         {
           "decade": 1960,
           "label": "1960s",
-          "count": 3,
+          "count": 4,
           "averageRating": 4.5
         },
         {
@@ -19189,47 +19281,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 89,
+          "n": 90,
           "kind": "latest",
-          "date": "2026-11-22",
-          "title": "The Hunger Games",
-          "year": "2012",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games/1/",
+          "date": "2026-11-23",
+          "title": "The Graduate",
+          "year": "1967",
+          "rating": 4.5,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:59281",
-          "lid": "2uds",
-          "slug": "the-hunger-games"
+          "filmUid": "film:27183",
+          "lid": "18Im",
+          "slug": "the-graduate"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 304,
-    "entries": 289,
-    "distinctFilms": 245,
+    "films": 305,
+    "entries": 290,
+    "distinctFilms": 246,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-22",
-    "spanDays": 1203,
-    "daysActive": 169,
+    "lastEntry": "2026-11-23",
+    "spanDays": 1204,
+    "daysActive": 170,
     "multiFilmDays": 24,
     "rewatches": 50,
-    "liked": 168,
-    "rated": 288,
+    "liked": 169,
+    "rated": 289,
     "releaseBreakdown": {
       "sameYear": 32,
-      "older": 257,
+      "older": 258,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 239,
+      "firstWatches": 240,
       "rewatches": 50
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 289
+      "notReviewed": 290
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -19268,13 +19360,13 @@
       },
       {
         "year": 2026,
-        "films": 89,
-        "days": 77
+        "films": 90,
+        "days": 78
       }
     ],
     "perWeekday": [
       38,
-      20,
+      21,
       112,
       25,
       27,
@@ -19292,7 +19384,7 @@
       103,
       8,
       22,
-      29,
+      30,
       29
     ],
     "monthSeries": [
@@ -19454,7 +19546,7 @@
       },
       {
         "month": "2026-11",
-        "count": 10
+        "count": 11
       }
     ],
     "weekSeries": [],
@@ -19489,7 +19581,7 @@
       },
       {
         "rating": 4.5,
-        "count": 62
+        "count": 63
       },
       {
         "rating": 5,
@@ -19518,8 +19610,8 @@
       {
         "decade": 1960,
         "label": "1960s",
-        "count": 11,
-        "averageRating": 4
+        "count": 12,
+        "averageRating": 4.5
       },
       {
         "decade": 1970,
@@ -19917,18 +20009,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 289,
+        "n": 290,
         "kind": "latest",
-        "date": "2026-11-22",
-        "title": "The Hunger Games",
-        "year": "2012",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games/1/",
+        "date": "2026-11-23",
+        "title": "The Graduate",
+        "year": "1967",
+        "rating": 4.5,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:59281",
-        "lid": "2uds",
-        "slug": "the-hunger-games"
+        "filmUid": "film:27183",
+        "lid": "18Im",
+        "slug": "the-graduate"
       }
     ]
   }
