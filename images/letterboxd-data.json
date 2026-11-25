@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-24T19:32:00.980Z",
+  "generatedAt": "2026-11-25T18:40:18.625Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 127,
-    "daysActive": 110,
+    "films": 128,
+    "daysActive": 111,
     "streak": 7,
     "streakFilms": 9,
-    "rewatches": 36,
-    "liked": 82
+    "rewatches": 37,
+    "liked": 83
   },
   "monthLabels": [
     {
@@ -9534,10 +9534,24 @@
       "date": "2026-11-24",
       "week": 99,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hunger Games: Catching Fire",
+          "year": "2013",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:82488",
+          "lid": "3sAw",
+          "slug": "the-hunger-games-catching-fire"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/24/"
     },
@@ -12480,56 +12494,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/23/"
+    },
+    {
+      "date": "2026-11-24",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hunger Games: Catching Fire",
+          "year": "2013",
+          "rating": 4,
+          "rewatch": true,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:82488",
+          "lid": "3sAw",
+          "slug": "the-hunger-games-catching-fire"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/24/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-24",
-    "films": [
-      {
-        "date": "2025-11-24",
-        "title": "One Battle After Another",
-        "year": "2025",
-        "rating": 4,
-        "rewatch": false,
-        "liked": false,
-        "url": "https://letterboxd.com/kennypickettfan/film/one-battle-after-another/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:951277",
-        "lid": "DUHM",
-        "slug": "one-battle-after-another"
-      },
-      {
-        "date": "2023-11-24",
-        "title": "Rear Window",
-        "year": "1954",
-        "rating": 4,
-        "rewatch": false,
-        "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/rear-window/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:51552",
-        "lid": "2a6Q",
-        "slug": "rear-window"
-      },
-      {
-        "date": "2023-11-24",
-        "title": "GoodFellas",
-        "year": "1990",
-        "rating": 4,
-        "rewatch": false,
-        "liked": true,
-        "url": "https://letterboxd.com/kennypickettfan/film/goodfellas/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:51383",
-        "lid": "29FA",
-        "slug": "goodfellas"
-      }
-    ]
+    "date": "2026-11-25",
+    "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-24",
+      "title": "The Hunger Games: Catching Fire",
+      "year": "2013",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:82488",
+      "lid": "3sAw",
+      "slug": "the-hunger-games-catching-fire"
+    },
     {
       "date": "2026-11-23",
       "title": "The Graduate",
@@ -12739,23 +12745,23 @@
       "filmUid": "film:1629443",
       "lid": "16mVo",
       "slug": "you-can-see-everything"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "After Hours",
-      "year": "1985",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/kennypickettfan/film/after-hours/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:45842",
-      "lid": "1VfS",
-      "slug": "after-hours"
     }
   ],
   "diary": [
+    {
+      "date": "2026-11-24",
+      "title": "The Hunger Games: Catching Fire",
+      "year": "2013",
+      "rating": 4,
+      "rewatch": true,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:82488",
+      "lid": "3sAw",
+      "slug": "the-hunger-games-catching-fire"
+    },
     {
       "date": "2026-11-23",
       "title": "The Graduate",
@@ -18592,33 +18598,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 90,
-      "distinctFilms": 77,
+      "entries": 91,
+      "distinctFilms": 78,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-23",
-      "spanDays": 326,
-      "daysActive": 78,
+      "lastEntry": "2026-11-24",
+      "spanDays": 327,
+      "daysActive": 79,
       "multiFilmDays": 10,
-      "rewatches": 31,
-      "liked": 62,
-      "rated": 90,
+      "rewatches": 32,
+      "liked": 63,
+      "rated": 91,
       "releaseBreakdown": {
         "sameYear": 10,
-        "older": 80,
+        "older": 81,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 59,
-        "rewatches": 31
+        "rewatches": 32
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 90
+        "notReviewed": 91
       },
       "averageRating": 4.1,
       "perDay": 0.28,
       "perWeek": 1.9,
-      "perMonth": 8.4,
+      "perMonth": 8.5,
       "streak": {
         "length": 7,
         "startDate": "2026-10-07",
@@ -18637,14 +18643,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 90,
-          "days": 78
+          "films": 91,
+          "days": 79
         }
       ],
       "perWeekday": [
         16,
         8,
-        8,
+        9,
         7,
         14,
         18,
@@ -18661,7 +18667,7 @@
         8,
         7,
         20,
-        11,
+        12,
         0
       ],
       "monthSeries": [
@@ -18707,7 +18713,7 @@
         },
         {
           "month": "2026-11",
-          "count": 11
+          "count": 12
         }
       ],
       "weekSeries": [
@@ -18997,7 +19003,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 1
+          "count": 2
         },
         {
           "week": 49,
@@ -19053,7 +19059,7 @@
         },
         {
           "rating": 4,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 4.5,
@@ -19110,7 +19116,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 25,
+          "count": 26,
           "averageRating": 4
         },
         {
@@ -19281,18 +19287,18 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 90,
+          "n": 91,
           "kind": "latest",
-          "date": "2026-11-23",
-          "title": "The Graduate",
-          "year": "1967",
-          "rating": 4.5,
-          "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+          "date": "2026-11-24",
+          "title": "The Hunger Games: Catching Fire",
+          "year": "2013",
+          "rating": 4,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:27183",
-          "lid": "18Im",
-          "slug": "the-graduate"
+          "filmUid": "film:82488",
+          "lid": "3sAw",
+          "slug": "the-hunger-games-catching-fire"
         }
       ]
     }
@@ -19300,33 +19306,33 @@
   "allTime": {
     "scope": "all",
     "films": 305,
-    "entries": 290,
+    "entries": 291,
     "distinctFilms": 246,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-23",
-    "spanDays": 1204,
-    "daysActive": 170,
+    "lastEntry": "2026-11-24",
+    "spanDays": 1205,
+    "daysActive": 171,
     "multiFilmDays": 24,
-    "rewatches": 50,
-    "liked": 169,
-    "rated": 289,
+    "rewatches": 51,
+    "liked": 170,
+    "rated": 290,
     "releaseBreakdown": {
       "sameYear": 32,
-      "older": 258,
+      "older": 259,
       "other": 0
     },
     "watchBreakdown": {
       "firstWatches": 240,
-      "rewatches": 50
+      "rewatches": 51
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 290
+      "notReviewed": 291
     },
     "averageRating": 3.8,
     "perDay": 0.24,
     "perWeek": 1.7,
-    "perMonth": 7.3,
+    "perMonth": 7.4,
     "streak": {
       "length": 7,
       "startDate": "2026-10-07",
@@ -19360,14 +19366,14 @@
       },
       {
         "year": 2026,
-        "films": 90,
-        "days": 78
+        "films": 91,
+        "days": 79
       }
     ],
     "perWeekday": [
       38,
       21,
-      112,
+      113,
       25,
       27,
       32,
@@ -19384,7 +19390,7 @@
       103,
       8,
       22,
-      30,
+      31,
       29
     ],
     "monthSeries": [
@@ -19546,7 +19552,7 @@
       },
       {
         "month": "2026-11",
-        "count": 11
+        "count": 12
       }
     ],
     "weekSeries": [],
@@ -19577,7 +19583,7 @@
       },
       {
         "rating": 4,
-        "count": 77
+        "count": 78
       },
       {
         "rating": 4.5,
@@ -19640,7 +19646,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 84,
+        "count": 85,
         "averageRating": 3.5
       },
       {
@@ -19892,6 +19898,16 @@
         "averageRating": 4
       },
       {
+        "title": "The Hunger Games: Catching Fire",
+        "year": "2013",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/",
+        "filmUid": "film:82488",
+        "lid": "3sAw",
+        "slug": "the-hunger-games-catching-fire",
+        "views": 2,
+        "averageRating": 4.5
+      },
+      {
         "title": "The Wolf of Wall Street",
         "year": "2013",
         "url": "https://letterboxd.com/kennypickettfan/film/the-wolf-of-wall-street/",
@@ -20009,18 +20025,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 290,
+        "n": 291,
         "kind": "latest",
-        "date": "2026-11-23",
-        "title": "The Graduate",
-        "year": "1967",
-        "rating": 4.5,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-graduate/",
+        "date": "2026-11-24",
+        "title": "The Hunger Games: Catching Fire",
+        "year": "2013",
+        "rating": 4,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:27183",
-        "lid": "18Im",
-        "slug": "the-graduate"
+        "filmUid": "film:82488",
+        "lid": "3sAw",
+        "slug": "the-hunger-games-catching-fire"
       }
     ]
   }
