@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-25T18:40:18.625Z",
+  "generatedAt": "2026-11-26T18:28:09.736Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,12 +18,12 @@
     "maxCount": 3
   },
   "stats": {
-    "films": 128,
-    "daysActive": 111,
+    "films": 129,
+    "daysActive": 112,
     "streak": 7,
     "streakFilms": 9,
     "rewatches": 37,
-    "liked": 83
+    "liked": 84
   },
   "monthLabels": [
     {
@@ -9559,10 +9559,24 @@
       "date": "2026-11-25",
       "week": 99,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1182692",
+          "lid": "NCIM",
+          "slug": "the-hunger-games-sunrise-on-the-reaping"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/25/"
     },
@@ -12515,13 +12529,48 @@
         }
       ],
       "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/24/"
+    },
+    {
+      "date": "2026-11-25",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": true,
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1182692",
+          "lid": "NCIM",
+          "slug": "the-hunger-games-sunrise-on-the-reaping"
+        }
+      ],
+      "url": "https://letterboxd.com/kennypickettfan/diary/films/for/2026/11/25/"
     }
   ],
   "onThisDay": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "films": []
   },
   "recent": [
+    {
+      "date": "2026-11-25",
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": true,
+      "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1182692",
+      "lid": "NCIM",
+      "slug": "the-hunger-games-sunrise-on-the-reaping"
+    },
     {
       "date": "2026-11-24",
       "title": "The Hunger Games: Catching Fire",
@@ -12731,23 +12780,23 @@
       "filmUid": "film:20956",
       "lid": "Sw0",
       "slug": "black-swan"
-    },
+    }
+  ],
+  "diary": [
     {
-      "date": "2026-10-24",
-      "title": "You Can See Everything",
+      "date": "2026-11-25",
+      "title": "The Hunger Games: Sunrise on the Reaping",
       "year": "2026",
       "rating": 4,
       "rewatch": false,
       "liked": true,
-      "url": "https://letterboxd.com/kennypickettfan/film/you-can-see-everything/",
+      "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
       "reviewed": false,
       "reviewUrl": null,
-      "filmUid": "film:1629443",
-      "lid": "16mVo",
-      "slug": "you-can-see-everything"
-    }
-  ],
-  "diary": [
+      "filmUid": "film:1182692",
+      "lid": "NCIM",
+      "slug": "the-hunger-games-sunrise-on-the-reaping"
+    },
     {
       "date": "2026-11-24",
       "title": "The Hunger Games: Catching Fire",
@@ -18598,32 +18647,32 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 91,
-      "distinctFilms": 78,
+      "entries": 92,
+      "distinctFilms": 79,
       "firstEntry": "2026-01-02",
-      "lastEntry": "2026-11-24",
-      "spanDays": 327,
-      "daysActive": 79,
+      "lastEntry": "2026-11-25",
+      "spanDays": 328,
+      "daysActive": 80,
       "multiFilmDays": 10,
       "rewatches": 32,
-      "liked": 63,
-      "rated": 91,
+      "liked": 64,
+      "rated": 92,
       "releaseBreakdown": {
-        "sameYear": 10,
+        "sameYear": 11,
         "older": 81,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 59,
+        "firstWatches": 60,
         "rewatches": 32
       },
       "reviewBreakdown": {
         "reviewed": 0,
-        "notReviewed": 91
+        "notReviewed": 92
       },
       "averageRating": 4.1,
       "perDay": 0.28,
-      "perWeek": 1.9,
+      "perWeek": 2,
       "perMonth": 8.5,
       "streak": {
         "length": 7,
@@ -18643,15 +18692,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 91,
-          "days": 79
+          "films": 92,
+          "days": 80
         }
       ],
       "perWeekday": [
         16,
         8,
         9,
-        7,
+        8,
         14,
         18,
         19
@@ -18667,7 +18716,7 @@
         8,
         7,
         20,
-        12,
+        13,
         0
       ],
       "monthSeries": [
@@ -18713,7 +18762,7 @@
         },
         {
           "month": "2026-11",
-          "count": 12
+          "count": 13
         }
       ],
       "weekSeries": [
@@ -19003,7 +19052,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 2
+          "count": 3
         },
         {
           "week": 49,
@@ -19059,7 +19108,7 @@
         },
         {
           "rating": 4,
-          "count": 22
+          "count": 23
         },
         {
           "rating": 4.5,
@@ -19122,7 +19171,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 24,
+          "count": 25,
           "averageRating": 4
         }
       ],
@@ -19287,47 +19336,47 @@
           "slug": "you-can-see-everything"
         },
         {
-          "n": 91,
+          "n": 92,
           "kind": "latest",
-          "date": "2026-11-24",
-          "title": "The Hunger Games: Catching Fire",
-          "year": "2013",
+          "date": "2026-11-25",
+          "title": "The Hunger Games: Sunrise on the Reaping",
+          "year": "2026",
           "rating": 4,
-          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+          "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:82488",
-          "lid": "3sAw",
-          "slug": "the-hunger-games-catching-fire"
+          "filmUid": "film:1182692",
+          "lid": "NCIM",
+          "slug": "the-hunger-games-sunrise-on-the-reaping"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 305,
-    "entries": 291,
-    "distinctFilms": 246,
+    "films": 306,
+    "entries": 292,
+    "distinctFilms": 247,
     "firstEntry": "2023-08-08",
-    "lastEntry": "2026-11-24",
-    "spanDays": 1205,
-    "daysActive": 171,
+    "lastEntry": "2026-11-25",
+    "spanDays": 1206,
+    "daysActive": 172,
     "multiFilmDays": 24,
     "rewatches": 51,
-    "liked": 170,
-    "rated": 290,
+    "liked": 171,
+    "rated": 291,
     "releaseBreakdown": {
-      "sameYear": 32,
+      "sameYear": 33,
       "older": 259,
       "other": 0
     },
     "watchBreakdown": {
-      "firstWatches": 240,
+      "firstWatches": 241,
       "rewatches": 51
     },
     "reviewBreakdown": {
       "reviewed": 0,
-      "notReviewed": 291
+      "notReviewed": 292
     },
     "averageRating": 3.8,
     "perDay": 0.24,
@@ -19366,15 +19415,15 @@
       },
       {
         "year": 2026,
-        "films": 91,
-        "days": 79
+        "films": 92,
+        "days": 80
       }
     ],
     "perWeekday": [
       38,
       21,
       113,
-      25,
+      26,
       27,
       32,
       35
@@ -19390,7 +19439,7 @@
       103,
       8,
       22,
-      31,
+      32,
       29
     ],
     "monthSeries": [
@@ -19552,7 +19601,7 @@
       },
       {
         "month": "2026-11",
-        "count": 12
+        "count": 13
       }
     ],
     "weekSeries": [],
@@ -19583,7 +19632,7 @@
       },
       {
         "rating": 4,
-        "count": 78
+        "count": 79
       },
       {
         "rating": 4.5,
@@ -19652,7 +19701,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 69,
+        "count": 70,
         "averageRating": 3.5
       }
     ],
@@ -20025,18 +20074,18 @@
         "slug": "spider-man-homecoming"
       },
       {
-        "n": 291,
+        "n": 292,
         "kind": "latest",
-        "date": "2026-11-24",
-        "title": "The Hunger Games: Catching Fire",
-        "year": "2013",
+        "date": "2026-11-25",
+        "title": "The Hunger Games: Sunrise on the Reaping",
+        "year": "2026",
         "rating": 4,
-        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-catching-fire/1/",
+        "url": "https://letterboxd.com/kennypickettfan/film/the-hunger-games-sunrise-on-the-reaping/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:82488",
-        "lid": "3sAw",
-        "slug": "the-hunger-games-catching-fire"
+        "filmUid": "film:1182692",
+        "lid": "NCIM",
+        "slug": "the-hunger-games-sunrise-on-the-reaping"
       }
     ]
   }
