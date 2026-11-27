@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-26T18:28:09.736Z",
+  "generatedAt": "2026-11-27T18:14:18.221Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -12553,8 +12553,23 @@
     }
   ],
   "onThisDay": {
-    "date": "2026-11-26",
-    "films": []
+    "date": "2026-11-27",
+    "films": [
+      {
+        "date": "2024-11-27",
+        "title": "The Batman",
+        "year": "2022",
+        "rating": 4.5,
+        "rewatch": true,
+        "liked": true,
+        "url": "https://letterboxd.com/kennypickettfan/film/the-batman/1/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:348914",
+        "lid": "eDGs",
+        "slug": "the-batman"
+      }
+    ]
   },
   "recent": [
     {
